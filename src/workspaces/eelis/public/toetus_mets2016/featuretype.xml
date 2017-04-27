@@ -1,0 +1,67 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-72ebcfe8:15a0435916e:-7f5f</id>
+  <name>toetus_mets2016</name>
+  <nativeName>kratt_toetus_mets2016</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6b87e486:15906d89eeb:-7fbe</id>
+  </namespace>
+  <title>Toetuskõlbulikud Natura metsaalad (2016)</title>
+  <abstract>Natura metsatoetuste kaardikiht 2016. aasta kohta. Kihil on metsaalad, mis on toetuskõlbulikud.</abstract>
+  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;, 
+  GEOGCS[&quot;EST97&quot;, 
+    DATUM[&quot;Estonia 1997&quot;, 
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6180&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4180&quot;]], 
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, 24.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 57.51755393055556], 
+  PARAMETER[&quot;standard_parallel_1&quot;, 59.333333333333336], 
+  PARAMETER[&quot;false_easting&quot;, 500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 6375000.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;standard_parallel_2&quot;, 58.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;3301&quot;]]</nativeCRS>
+  <srs>EPSG:3301</srs>
+  <nativeBoundingBox>
+    <minx>372365.749362</minx>
+    <maxx>724857.702329</maxx>
+    <miny>6380611.709915</miny>
+    <maxy>6615899.97044</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.735535358774115</minx>
+    <maxx>27.98620324767615</maxx>
+    <miny>57.51144435820523</miny>
+    <maxy>59.68015697393608</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-78b2ce60:15969feee73:-7fef</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

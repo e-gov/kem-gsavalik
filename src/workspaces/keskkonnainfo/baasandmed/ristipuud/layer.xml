@@ -1,0 +1,25 @@
+<layer>
+  <name>ristipuud</name>
+  <id>LayerInfoImpl-3e37a066:15a3750de58:-7fcc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72f82b97:15a5b511968:-43a</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3e37a066:15a3750de58:-7fcd</id>
+  </resource>
+  <attribution>
+    <title>Keskkonnaamet | Estonian Environmental Board : CC-BY 4.0</title>
+    <href>http://keskkonnaamet.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

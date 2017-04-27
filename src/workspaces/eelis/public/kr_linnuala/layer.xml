@@ -1,0 +1,28 @@
+<layer>
+  <name>kr_linnuala</name>
+  <id>LayerInfoImpl--15de1ba7:15a221ea2a7:284f</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--15de1ba7:15a221ea2a7:2854</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--15de1ba7:15a221ea2a7:2853</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--15de1ba7:15a221ea2a7:284e</id>
+  </resource>
+  <attribution>
+    <title>Keskkonnaagentuur | Estonian Environmental Agency : CC-BY 4.0</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

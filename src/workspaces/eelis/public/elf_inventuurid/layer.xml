@@ -1,0 +1,28 @@
+<layer>
+  <name>elf_inventuurid</name>
+  <id>LayerInfoImpl--15de1ba7:15a221ea2a7:2864</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--15de1ba7:15a221ea2a7:2862</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--15de1ba7:15a221ea2a7:287c</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--15de1ba7:15a221ea2a7:2863</id>
+  </resource>
+  <attribution>
+    <title>Eestimaa Looduse Fond</title>
+    <href>http://elfond.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,28 @@
+<layer>
+  <name>niidud</name>
+  <id>LayerInfoImpl--15de1ba7:15a221ea2a7:285f</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--15de1ba7:15a221ea2a7:285d</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--15de1ba7:15a221ea2a7:2879</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--15de1ba7:15a221ea2a7:285e</id>
+  </resource>
+  <attribution>
+    <title>Pärandkoosluste Kaitse Ühing</title>
+    <href>http://www.pky.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

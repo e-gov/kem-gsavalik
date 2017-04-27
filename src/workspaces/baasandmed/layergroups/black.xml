@@ -1,0 +1,74 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--6b87e486:15906d89eeb:-7fd9</id>
+  <name>black</name>
+  <mode>NAMED</mode>
+  <title>MV tume aluskaart</title>
+  <abstractTxt>Mustvalge tume aluskaart, inspireeritud Stamen Toner stiilist (vt http://maps.stamen.com/toner). Kasutatud andmete allikad: Maa-amet (EHAK administratiivüksused, andmete seisu kuupäev: vt http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html); Keskkonnaagentuur (veekogud); OpenStreetMap (ehitised ja teed). | A dark black and white basemap, inspired by Stamen Toner (see http://maps.stamen.com/toner). Data sources: Estonian Land Board (Estonian administrative division, http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html); Estonian Environmental Agency (waterbodies); OpenStreetMap (buildings and roads).</abstractTxt>
+  <workspace>
+    <id>WorkspaceInfoImpl--6b87e486:15906d89eeb:-7fff</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7ff3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fed</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fe7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fe4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7ff9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7ff0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fdd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fda</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7feb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7fe2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>335184.181448503</minx>
+    <maxx>766933.4671887269</maxx>
+    <miny>6369140.682906006</miny>
+    <maxy>6660790.58327704</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </bounds>
+  <attribution>
+    <title>Maa-amet / Keskkonnaagentuur / OpenStreetMap | Estonian Land Board / Estonian Environmental Agency / OpenStreetMap</title>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layerGroup>

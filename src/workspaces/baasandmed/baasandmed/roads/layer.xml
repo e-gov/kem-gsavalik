@@ -1,0 +1,17 @@
+<layer>
+  <name>roads</name>
+  <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fda</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6b87e486:15906d89eeb:-7fe2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6b87e486:15906d89eeb:-7fdb</id>
+  </resource>
+  <attribution>
+    <title>OpenStreetMap contributors</title>
+    <href>http://www.openstreetmap.org/copyright</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

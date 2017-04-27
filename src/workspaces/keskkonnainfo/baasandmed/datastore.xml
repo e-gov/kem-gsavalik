@@ -1,0 +1,13 @@
+<dataStore>
+  <id>DataStoreInfoImpl-3e37a066:15a3750de58:-7fd2</id>
+  <name>baasandmed</name>
+  <type><!-- datastore'i tüüp --></type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-3e37a066:15a3750de58:-7fd4</id>
+  </workspace>
+  <connectionParameters>
+    <!-- entry key="" parameetrid sellele datastore'ile-->
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

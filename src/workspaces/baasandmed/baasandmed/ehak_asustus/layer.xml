@@ -1,0 +1,22 @@
+<layer>
+  <name>ehak_asustus</name>
+  <id>LayerInfoImpl--6b87e486:15906d89eeb:-7ff0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7feb</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6b87e486:15906d89eeb:-7ff1</id>
+  </resource>
+  <attribution>
+    <title>Maa-amet</title>
+    <href>http://maaamet.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

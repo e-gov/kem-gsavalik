@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="25"
+   height="38"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3765">
+      <stop
+         id="stop3767"
+         style="stop-color:#005028;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3773"
+         style="stop-color:#005028;stop-opacity:0.66666669"
+         offset="0.28061539" />
+      <stop
+         id="stop3775"
+         style="stop-color:#005028;stop-opacity:0.38562092"
+         offset="0.6568951" />
+      <stop
+         id="stop3769"
+         style="stop-color:#005028;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         id="stop3757"
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3763"
+         style="stop-color:#7f2814;stop-opacity:0.49803922"
+         offset="0.5" />
+      <stop
+         id="stop3759"
+         style="stop-color:#005028;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1014.3622)"
+     id="layer1">
+    <path
+       d="m 13.057764,1042.9018 10.01561,2e-4 -10.51675,-26.9459 -10.5317991,26.9559 9.9945891,0 0.001,6.954 -6.0051094,10e-4 -3.3e-4,1.0381 13.0529894,0 -0.005,-1.0475 -6.01224,0.01 z"
+       id="path3905"
+       style="fill:#4d8000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<dataStore>
+  <id>DataStoreInfoImpl-78b2ce60:15969feee73:-7fef</id>
+  <name>public</name>
+  <description>EELISe avaandmed</description>
+  <type><!-- datastore'i tüüp --></type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--6b87e486:15906d89eeb:-7fbf</id>
+  </workspace>
+  <connectionParameters>
+    <!-- entry key="" parameetrid sellele datastore'ile-->
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

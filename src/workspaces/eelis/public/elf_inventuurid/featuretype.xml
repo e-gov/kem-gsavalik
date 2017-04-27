@@ -1,0 +1,81 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--15de1ba7:15a221ea2a7:2863</id>
+  <name>elf_inventuurid</name>
+  <nativeName>kratt_elf_inventuurid</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6b87e486:15906d89eeb:-7fbe</id>
+  </namespace>
+  <title>ELFi Natura alade inventuur</title>
+  <abstract>ELFi Natura inventuuri andmed&#xd;
+* ELF-i poolt üle antud 04.05.2011 kirja nr  10.-9/1258 alusel&#xd;
+* Kiht uuendatud 9.05.2012 kirja nr 10.-9/1122 alusel&#xd;
+Kiht sisaldab seisuga 29.04.2011 ELFi looduskaitse-andmebaasi neid kirjeid, millel kasvukohatüüp vähemalt rühma tasemel määratletud ja/või vähemalt põhilised hinnangud esitatud.&#xd;
+* Kiht uuendatud 14.05.2013 kirja nr 10.-9/1079 alusel&#xd;
+* Kiht uuendatud 02.09.2015 kirja nr 8.4-6/2121 alusel&#xd;
+* Kiht muudetud 5.12.2016 kirja nr 7-1/16/2043 alusel&#xd;
+&#xd;
+Kihi ajalugu:&#xd;
+22.01.2007 kirja 10-9/172 alusel asendatud värske kihiga, kus sees ka märgalade 1997. a inventuuri andmed&#xd;
+nimemuutus naturainventuur_elf-&gt;elf_inventuurid&#xd;
+&#xd;
+Varem oli ka kiht natura_elf_2003:&#xd;
+Sisse tulnud kirjaga nr 10-9/1054&#xd;
+ELF&apos;i poolt teostatud inventuuride andmed Natura 2000 elupaigatüüpide kohta. Saaremaa, Valgamaa, Jõgevamaa, osaliselt Viljandimaa (v. a Kõpu vald) Läänemaa, osaliselt Harjumaa (lääne- ja keskosa), Raplamaa, Järvamaa, Pärnumaa (Vändra vald), Ida-Virumaa, osaliselt Tartumaa (v. a Võnnu ja Meeksi vald), osaliselt Võrumaa (Antsla ja Urvaste). Andmed on ELF&apos;&apos;i poolt kontrollitud (E. Leibak, L. Lutsar). Korrigeeritud kiht asendatud 9.07.2004 (andmed 2003 seisuga).</abstract>
+  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;, 
+  GEOGCS[&quot;EST97&quot;, 
+    DATUM[&quot;Estonia 1997&quot;, 
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6180&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4180&quot;]], 
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, 24.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 57.51755393055556], 
+  PARAMETER[&quot;standard_parallel_1&quot;, 59.333333333333336], 
+  PARAMETER[&quot;false_easting&quot;, 500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 6375000.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;standard_parallel_2&quot;, 58.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;3301&quot;]]</nativeCRS>
+  <srs>EPSG:3301</srs>
+  <nativeBoundingBox>
+    <minx>370712.747</minx>
+    <maxx>735057.548</maxx>
+    <miny>6377260.316</miny>
+    <maxy>6617641.631</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.705174063888514</minx>
+    <maxx>28.16848410977044</maxx>
+    <miny>57.476170408300725</miny>
+    <maxy>59.69583787051042</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-78b2ce60:15969feee73:-7fef</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

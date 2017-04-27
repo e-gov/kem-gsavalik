@@ -1,0 +1,22 @@
+<layer>
+  <name>ehak_maakond_merega</name>
+  <id>LayerInfoImpl--6b87e486:15906d89eeb:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6b87e486:15906d89eeb:-7ffa</id>
+  </resource>
+  <attribution>
+    <title>Maa-amet 2016</title>
+    <href>http://maaamet.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

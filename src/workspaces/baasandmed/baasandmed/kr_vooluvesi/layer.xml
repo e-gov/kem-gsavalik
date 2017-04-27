@@ -1,0 +1,22 @@
+<layer>
+  <name>kr_vooluvesi</name>
+  <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fe4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--6b87e486:15906d89eeb:-7fe5</id>
+  </resource>
+  <attribution>
+    <title>Keskkonnaagentuur | Estonian Environmental Agency : CC-BY 4.0</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

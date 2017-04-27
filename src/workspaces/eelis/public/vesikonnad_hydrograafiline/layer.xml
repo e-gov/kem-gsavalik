@@ -1,0 +1,25 @@
+<layer>
+  <name>vesikonnad_hydrograafiline</name>
+  <id>LayerInfoImpl-72ebcfe8:15a0435916e:-7fbe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--28e3b1c6:159f8f0e5b1:-7ff6</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--28e3b1c6:159f8f0e5b1:-7fc0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72ebcfe8:15a0435916e:-7fbf</id>
+  </resource>
+  <attribution>
+    <title>Keskkonnaagentuur | Estonian Environmental Agency : CC-BY 4.0</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
