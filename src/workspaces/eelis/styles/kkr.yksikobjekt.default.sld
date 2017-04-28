@@ -20,7 +20,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MaxScaleDenominator>25000</MaxScaleDenominator>
@@ -58,7 +58,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
             </ogc:Filter>
           <MaxScaleDenominator>25000</MaxScaleDenominator>
@@ -120,7 +120,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MaxScaleDenominator>25000</MaxScaleDenominator>
@@ -154,7 +154,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MaxScaleDenominator>25000</MaxScaleDenominator>
@@ -188,7 +188,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MaxScaleDenominator>25000</MaxScaleDenominator>
@@ -202,10 +202,10 @@
               <CssParameter name="stroke-width">0.7</CssParameter>
             </Stroke>
           </PolygonSymbolizer>
-        </Rule> 
+        </Rule>
 
         <!-- 50K - 25K -->
-        
+
         <Rule>
           <Name>puuderyhm_50K-25K</Name>
           <ogc:Filter>
@@ -219,7 +219,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MinScaleDenominator>25000</MinScaleDenominator>
@@ -258,7 +258,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
             </ogc:Filter>
           <MinScaleDenominator>25000</MinScaleDenominator>
@@ -322,7 +322,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MinScaleDenominator>25000</MinScaleDenominator>
@@ -357,7 +357,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MinScaleDenominator>25000</MinScaleDenominator>
@@ -392,7 +392,7 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>2</ogc:Literal>
-              </ogc:PropertyIsEqualTo>              
+              </ogc:PropertyIsEqualTo>
             </ogc:And>
           </ogc:Filter>
           <MinScaleDenominator>25000</MinScaleDenominator>
@@ -407,11 +407,11 @@
               <CssParameter name="stroke-width">0.5</CssParameter>
             </Stroke>
           </PolygonSymbolizer>
-        </Rule>        
-        
-        
+        </Rule>
+
+
       </FeatureTypeStyle>
-      
+
       <FeatureTypeStyle>
         <Name>yksikobjektid_tsentroid</Name>
         <!-- 25K - nK -->
@@ -428,14 +428,14 @@
                    <ogc:PropertyName>shape</ogc:PropertyName>
                 </ogc:Function>
                 <ogc:Literal>0</ogc:Literal>
-              </ogc:PropertyIsEqualTo>   
+              </ogc:PropertyIsEqualTo>
 			</ogc:And>
           </ogc:Filter>
           <MaxScaleDenominator>25000</MaxScaleDenominator>
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puudesalu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puudesalu.svg" />
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>30</Size>
@@ -472,7 +472,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-vesi.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-vesi.svg" />
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>30</Size>
@@ -533,7 +533,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-maa.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-maa.svg" />
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>30</Size>
@@ -566,7 +566,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puu.svg" />
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>30</Size>
@@ -599,16 +599,16 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/randrahn.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/randrahn.svg" />
                 <Format>image/svg+xml</Format>
               </ExternalGraphic>
               <Size>30</Size>
             </Graphic>
           </PointSymbolizer>
         </Rule>
-        
+
       </FeatureTypeStyle>
-      
+
       <FeatureTypeStyle>
 		<Name>yksikobjektid_lipikud</Name>
         <!-- 50K - 25K -->
@@ -626,7 +626,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puudesalu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puudesalu.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>30</Size>
@@ -658,7 +658,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-vesi.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-vesi.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>30</Size>
@@ -713,7 +713,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-maa.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-maa.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>30</Size>
@@ -740,7 +740,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puu.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>30</Size>
@@ -767,14 +767,14 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/randrahn.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/randrahn.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>30</Size>
               </Graphic>
            </TextSymbolizer>
         </Rule>
-        
+
         <!-- 200K - 50K -->
 
 
@@ -792,7 +792,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puudesalu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puudesalu.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>20</Size>
@@ -824,7 +824,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-vesi.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-vesi.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>20</Size>
@@ -879,7 +879,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-maa.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-maa.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>20</Size>
@@ -906,7 +906,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puu.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>20</Size>
@@ -933,7 +933,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/randrahn.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/randrahn.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>20</Size>
@@ -957,7 +957,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puudesalu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puudesalu.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>10</Size>
@@ -988,7 +988,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-vesi.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-vesi.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>10</Size>
@@ -1042,7 +1042,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/pinnavormid-maa.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/pinnavormid-maa.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>10</Size>
@@ -1068,7 +1068,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/puu.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/puu.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>10</Size>
@@ -1094,7 +1094,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/svg/randrahn.svg" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/svg/ra/randrahn.svg" />
                 <Format>image/svg+xml</Format>
                 </ExternalGraphic>
                 <Size>10</Size>

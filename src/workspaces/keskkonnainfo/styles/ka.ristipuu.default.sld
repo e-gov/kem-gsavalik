@@ -29,7 +29,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuude_grupp_002.png" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuud/ristipuude_grupp_002.png" />
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>50</Size>
@@ -53,7 +53,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuude_grupp_002.png" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuud/ristipuude_grupp_002.png" />
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>47</Size>
@@ -74,7 +74,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuu_002.png" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuud/ristipuu_002.png" />
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>50</Size>
@@ -96,7 +96,7 @@
           <PointSymbolizer>
             <Graphic>
               <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuu_002.png" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuud/ristipuu_002.png" />
                 <Format>image/png</Format>
               </ExternalGraphic>
               <Size>47</Size>
@@ -104,7 +104,7 @@
           </PointSymbolizer>
         </Rule>
       </FeatureTypeStyle>
-      
+
       <FeatureTypeStyle>
 		<Name>ristipuud_lipikud</Name>
         <!--Rule>
@@ -122,7 +122,7 @@
               </Graphic>
            </TextSymbolizer>
         </Rule-->
-        
+
         <!-- 200K - 50K -->
 
 
@@ -134,7 +134,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuude_grupp_002.png" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuud/ristipuude_grupp_002.png" />
                 <Format>image/png</Format>
                 </ExternalGraphic>
                 <Size>45</Size>
@@ -152,7 +152,7 @@
             <Label><![CDATA[ ]]></Label>
               <Graphic>
                 <ExternalGraphic>
-                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuude_grupp_002.png" />
+                <OnlineResource xlink:type="simple" xlink:href="icons/png/ristipuud/ristipuude_grupp_002.png" />
                 <Format>image/png</Format>
                 </ExternalGraphic>
                 <Size>35</Size>
