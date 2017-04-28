@@ -3,7 +3,7 @@
   <NamedLayer>
     <Name>osm</Name>
     <UserStyle>
-      <Name>osm</Name>
+      <Name>aluskaart.black.osm</Name>
       <FeatureTypeStyle>
       	<FeatureTypeName>buildings</FeatureTypeName>
         <Rule>

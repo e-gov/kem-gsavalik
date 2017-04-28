@@ -3,7 +3,7 @@
   <NamedLayer>
     <Name>a3</Name>
     <UserStyle>
-      <Name>OV linnad ja muud</Name>
+      <Name>aluskaart.black.a3</Name>
       <FeatureTypeStyle>
       	<FeatureTypeName>ehak_asustus</FeatureTypeName>
         <Rule>

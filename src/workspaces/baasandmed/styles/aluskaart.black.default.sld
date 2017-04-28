@@ -3,7 +3,7 @@
   <NamedLayer>
     <Name>black</Name>
     <UserStyle>
-      <Name>black</Name>
+      <Name>aluskaart.black.default</Name>
       <FeatureTypeStyle>
         <FeatureTypeName>riigid</FeatureTypeName>
         <Rule>

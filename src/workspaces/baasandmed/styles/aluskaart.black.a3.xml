@@ -1,6 +1,6 @@
 <style>
-  <id>StyleInfoImpl--6b87e486:15906d89eeb:-7ff7</id>
-  <name>black</name>
+  <id>StyleInfoImpl--6b87e486:15906d89eeb:-7feb</id>
+  <name>aluskaart.black.a3</name>
   <workspace>
     <id>WorkspaceInfoImpl--6b87e486:15906d89eeb:-7fff</id>
   </workspace>
@@ -8,5 +8,5 @@
   <languageVersion>
     <version>1.0.0</version>
   </languageVersion>
-  <filename>black.sld</filename>
+  <filename>admin_a3.sld</filename>
 </style>
