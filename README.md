@@ -43,8 +43,16 @@ grupikihid, teenuste / kaardikihtide metaanded jms.
 
 Uute kaardikihtide lisamise soovide osas võiks üle käia teemad
 [okestonia/opendata-issue-tracker](https://github.com/okestonia/opendata-issue-tracker/issues)
-lehel ning oma soovid ja vajadused sinna kommunikeerida. Seeläbi saame teabe
-huvipakkuvatest andmetest ühes koos hoida.
+(OIT) lehel ning oma soovid ja vajadused sinna kommunikeerida. Seeläbi saame teabe
+huvipakkuvatest andmetest ühes koos hoida. 
+
+Kui [OIT repo](https://github.com/okestonia/opendata-issue-tracker/issues) 
+arutelus selgub, et konkreetne andmevajadus on võimalik lahendada `gsavalik` 
+GeoServeril, siis avame siin repos eraldi [õssu](https://github.com/e-gov/kem-gsavalik/issues), 
+milles saab seejärel läbi töötada täpsema andmekoosseisu (s.t atribuutandmed, 
+mida saab/võib seadusest või muudest kohustustest tulenevalt avaldada), viitega 
+OITi vastavale õssule. Viitamine OIT arutelule pakub tagasiside algsele 
+andmevajadusele.
 
 Kui soovid ise teha täiendusi/muudatusi/parandusi, siis võid avada tõmbepalve
 (_pull request_). Märgi sel juhul end kindlasti ka kaastööliste nimekirja
