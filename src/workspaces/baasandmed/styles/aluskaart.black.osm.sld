@@ -21,27 +21,6 @@
             </Stroke>
           </PolygonSymbolizer>
         </Rule>
-        <!--Rule>
-          <Name>a3_asustus</Name>
-          <ogc:Filter>
-            <ogc:PropertyIsEqualTo>
-              <ogc:Function name="in2">
-              	<ogc:PropertyName>tyyp</ogc:PropertyName>
-                <ogc:Literal>4</ogc:Literal>
-                <ogc:Literal>6</ogc:Literal>
-              </ogc:Function>
-              <ogc:Literal>false</ogc:Literal>
-            </ogc:PropertyIsEqualTo>
-          </ogc:Filter>
-          <MaxScaleDenominator>50000</MaxScaleDenominator>
-          <LineSymbolizer>
-            <Stroke>
-              <CssParameter name="stroke">#000000</CssParameter>
-              <CssParameter name="stroke-width">1</CssParameter>
-              <CssParameter name="stroke-dasharray">1 5</CssParameter>
-            </Stroke>
-          </LineSymbolizer>
-        </Rule-->
       </FeatureTypeStyle>
       <FeatureTypeStyle>
       	<FeatureTypeName>roads</FeatureTypeName>
@@ -81,7 +60,7 @@
           </LineSymbolizer>
         </Rule>
         <Rule>
-          <Name>roads_250k-50k</Name>
+          <Name>roads_100k-50k</Name>
           <ogc:Filter>
             <ogc:And>
               <ogc:PropertyIsGreaterThan>
@@ -95,7 +74,7 @@
             </ogc:And>
           </ogc:Filter>
           <MinScaleDenominator>50000</MinScaleDenominator>
-          <MaxScaleDenominator>250000</MaxScaleDenominator>
+          <MaxScaleDenominator>100000</MaxScaleDenominator>
           <LineSymbolizer>
             <Stroke>
               <CssParameter name="stroke">#7d7d7d</CssParameter>
@@ -105,7 +84,7 @@
           </LineSymbolizer>
         </Rule>
         <Rule>
-          <Name>roads_500k-250k</Name>
+          <Name>roads_200k-100k</Name>
           <ogc:Filter>
             <ogc:And>
               <ogc:PropertyIsGreaterThan>
@@ -118,8 +97,8 @@
               </ogc:PropertyIsLessThan>
             </ogc:And>
           </ogc:Filter>
-          <MinScaleDenominator>250000</MinScaleDenominator>
-          <MaxScaleDenominator>500000</MaxScaleDenominator>
+          <MinScaleDenominator>100000</MinScaleDenominator>
+          <MaxScaleDenominator>200000</MaxScaleDenominator>
           <LineSymbolizer>
             <Stroke>
               <CssParameter name="stroke">#7d7d7d</CssParameter>
@@ -129,7 +108,7 @@
           </LineSymbolizer>
         </Rule>
         <Rule>
-          <Name>roads_nk-500k</Name>
+          <Name>roads_nk-200k</Name>
           <ogc:Filter>
             <ogc:And>
               <ogc:PropertyIsGreaterThan>
@@ -142,7 +121,7 @@
               </ogc:PropertyIsLessThan>
             </ogc:And>
           </ogc:Filter>
-          <MinScaleDenominator>500000</MinScaleDenominator>
+          <MinScaleDenominator>200000</MinScaleDenominator>
           <LineSymbolizer>
             <Stroke>
               <CssParameter name="stroke">#7d7d7d</CssParameter>
