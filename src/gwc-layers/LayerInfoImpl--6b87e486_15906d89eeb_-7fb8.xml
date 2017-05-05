@@ -1,0 +1,35 @@
+<GeoServerTileLayer>
+  <id>LayerInfoImpl--6b87e486:15906d89eeb:-7fb8</id>
+  <enabled>true</enabled>
+  <inMemoryCached>true</inMemoryCached>
+  <name>eelis:kr_puurkaev</name>
+  <mimeFormats>
+    <string>image/png</string>
+    <string>image/jpeg</string>
+    <string>application/json;type=geojson</string>
+    <string>application/json;type=topojson</string>
+  </mimeFormats>
+  <gridSubsets>
+    <gridSubset>
+      <gridSetName>EPSG:3301</gridSetName>
+    </gridSubset>
+  </gridSubsets>
+  <metaWidthHeight>
+    <int>4</int>
+    <int>4</int>
+  </metaWidthHeight>
+  <expireCache>0</expireCache>
+  <expireClients>0</expireClients>
+  <parameterFilters>
+    <styleParameterFilter>
+      <key>STYLES</key>
+      <defaultValue></defaultValue>
+      <availableStyles class="sorted-set">
+        <string>eelis:kkr.puurkaev.lipik</string>
+        <string>point</string>
+      </availableStyles>
+      <defaultStyle>eelis:kkr.puurkaev</defaultStyle>
+    </styleParameterFilter>
+  </parameterFilters>
+  <gutter>0</gutter>
+</GeoServerTileLayer>

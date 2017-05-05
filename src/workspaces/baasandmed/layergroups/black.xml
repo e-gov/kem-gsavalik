@@ -3,7 +3,7 @@
   <name>black</name>
   <mode>NAMED</mode>
   <title>MV tume aluskaart</title>
-  <abstractTxt>Mustvalge tume aluskaart, inspireeritud Stamen Toner stiilist (vt http://maps.stamen.com/toner). Kasutatud andmete allikad: Maa-amet (EHAK administratiivüksused, andmete seisu kuupäev: vt http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html); Keskkonnaagentuur (veekogud); OpenStreetMap (ehitised ja teed, http://www.openstreetmap.org/copyright). | A dark black and white basemap, inspired by Stamen Toner (see http://maps.stamen.com/toner). Data sources: Estonian Land Board (Estonian administrative division, http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html); Estonian Environmental Agency (waterbodies); OpenStreetMap (buildings and roads, http://www.openstreetmap.org/copyright) .</abstractTxt>
+  <abstractTxt>Mustvalge tume aluskaart, inspireeritud Stamen Toner stiilist (vt http://maps.stamen.com/toner). Kasutatud andmete allikad: Maa-amet (EHAK administratiivüksused, andmete seisu kuupäev: vt http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html); Keskkonnaagentuur (veekogud); OpenStreetMap (ehitised ja teed). | A dark black and white basemap, inspired by Stamen Toner (see http://maps.stamen.com/toner). Data sources: Estonian Land Board (Estonian administrative division, http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html); Estonian Environmental Agency (waterbodies); OpenStreetMap (buildings and roads).</abstractTxt>
   <workspace>
     <id>WorkspaceInfoImpl--6b87e486:15906d89eeb:-7fff</id>
   </workspace>
@@ -67,7 +67,7 @@
     <crs class="projected">EPSG:3301</crs>
   </bounds>
   <attribution>
-    <title>Maa-amet / Keskkonnaagentuur / OpenStreetMap contributors</title>
+    <title>Maa-amet / Keskkonnaagentuur / OpenStreetMap | Estonian Land Board / Estonian Environmental Agency / OpenStreetMap</title>
     <logoWidth>0</logoWidth>
     <logoHeight>0</logoHeight>
   </attribution>

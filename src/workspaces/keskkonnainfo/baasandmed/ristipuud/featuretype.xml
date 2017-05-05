@@ -7,7 +7,7 @@
   </namespace>
   <title>Ristipuud</title>
   <abstract>Risti lõikamine puusse on osa Lõuna-Eesti matusekombestikust. Sellest annab hea ülevaate http://www.folklore.ee/tagused/nr1/puurist.htm. Kaardistatud ristipuude asukohad ja -alad koos fotodega. Fotod on esitatud komaeraldatud URLidena. Kui ristipuu on kantud Keskkonnaregistrisse, siis on antud URL viide seotud kandele. Kui ristipuuga seotud paik on kantud Kultuurimälestiste riiklikusse registrisse, siis on võimalusel antud URL viide ka sellele kandele. Täpsem info andmete kohta: Marju Kõivupuu (kpuu@tlu.ee), Liina Laanemets (liina.laanemets@keskkonnaamet.ee), Urve Sinijärv (urve.sinijarv@envir.ee). Ristipuude ikoonid: (c) Asko Künnap 2016. Andmed @ CC-BY 4.0 Keskkonnaamet.</abstract>
-  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;, 
+  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
   GEOGCS[&quot;EST97&quot;,
     DATUM[&quot;Estonia 1997&quot;,
       SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]],
@@ -54,6 +54,17 @@
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <metadata>
+    <entry key="elevation">
+      <dimensionInfo>
+        <enabled>false</enabled>
+      </dimensionInfo>
+    </entry>
+    <entry key="time">
+      <dimensionInfo>
+        <enabled>false</enabled>
+        <defaultValue/>
+      </dimensionInfo>
+    </entry>
     <entry key="cachingEnabled">false</entry>
   </metadata>
   <store class="dataStore">

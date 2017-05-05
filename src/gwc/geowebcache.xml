@@ -5,8 +5,8 @@
   <blobStores/>
   <gridSets>
     <gridSet>
-      <name>LEST97</name>
-      <description>Eesti riikliku koordinaatsüsteemi L&apos;EST-97 (epsg:3301) põhine kahhelvõrk. Suurenduse tasemeid kokku 15, ümberkasti koordinaadid samad, mis Maa-ameti kahhelkaartide teenustes http://tiles.maaamet.ee/tm/tms/1.0.0</description>
+      <name>EPSG:3301</name>
+      <description>Eesti riikliku koordinaatsüsteemi L&apos;EST-97 (EPSG:3301) põhine kahhelvõrk. Suurenduse tasemeid kokku 15, ümberkasti koordinaadid samad, mis Maa-ameti kahhelkaartide teenustes http://tiles.maaamet.ee/tm/tms/1.0.0</description>
       <srs>
         <number>3301</number>
       </srs>
