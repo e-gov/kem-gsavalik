@@ -4,6 +4,7 @@
     <Name>black</Name>
     <UserStyle>
       <Name>aluskaart.black.default</Name>
+      <Abstract>Mustvalge aluskaardistiil.</Abstract>
       <FeatureTypeStyle>
         <FeatureTypeName>riigid</FeatureTypeName>
         <Rule>

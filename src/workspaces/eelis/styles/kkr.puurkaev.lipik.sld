@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<StyledLayerDescriptor version="1.0.0" 
- xsi:schemaLocation="http://www.opengis.net/sld StyledLayerDescriptor.xsd" 
- xmlns="http://www.opengis.net/sld" 
- xmlns:ogc="http://www.opengis.net/ogc" 
- xmlns:xlink="http://www.w3.org/1999/xlink" 
+<StyledLayerDescriptor version="1.0.0"
+ xsi:schemaLocation="http://www.opengis.net/sld StyledLayerDescriptor.xsd"
+ xmlns="http://www.opengis.net/sld"
+ xmlns:ogc="http://www.opengis.net/ogc"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NamedLayer>
     <Name>kr_puurkaev</Name>
     <UserStyle>
-      <Title>kr_puurkaev_lipik</Title>
+      <Title>kkr.puurkaev.lipik</Title>
+      <Abstract>Kaardistiil puurkaevude siltide kuvamiseks. Sildina kasutusel keskkonnaregistri kood.</Abstract>
       <FeatureTypeStyle>
         <Rule>
           <Name>kr_puurkaev_10K-nK</Name>
           <MaxScaleDenominator>10000</MaxScaleDenominator>
-		  <TextSymbolizer>
+		      <TextSymbolizer>
             <Geometry>
               <ogc:Function name="centroid">
                 <ogc:PropertyName>shape</ogc:PropertyName>
@@ -44,7 +45,7 @@
               <Radius>3</Radius>
               <Fill>
                 <CssParameter name="fill">#191c28</CssParameter>
-              </Fill> 
+              </Fill>
             </Halo>
             <Fill>
               <CssParameter name="fill">#49b1b8</CssParameter>
@@ -58,7 +59,7 @@
           <Name>kr_puurkaev_25K-10K</Name>
           <MinScaleDenominator>10000</MinScaleDenominator>
           <MaxScaleDenominator>25000</MaxScaleDenominator>
-		  <TextSymbolizer>
+		      <TextSymbolizer>
             <Geometry>
               <ogc:Function name="centroid">
                 <ogc:PropertyName>shape</ogc:PropertyName>
@@ -89,7 +90,7 @@
               <Radius>3</Radius>
               <Fill>
                 <CssParameter name="fill">#191c28</CssParameter>
-              </Fill> 
+              </Fill>
             </Halo>
             <Fill>
               <CssParameter name="fill">#49b1b8</CssParameter>
@@ -102,7 +103,7 @@
           <Name>kr_puurkaev_50K-25K</Name>
           <MinScaleDenominator>25000</MinScaleDenominator>
           <MaxScaleDenominator>50000</MaxScaleDenominator>
-		  <TextSymbolizer>
+		      <TextSymbolizer>
             <Geometry>
               <ogc:Function name="centroid">
                 <ogc:PropertyName>shape</ogc:PropertyName>
@@ -133,7 +134,7 @@
               <Radius>3</Radius>
               <Fill>
                 <CssParameter name="fill">#191c28</CssParameter>
-              </Fill> 
+              </Fill>
             </Halo>
             <Fill>
               <CssParameter name="fill">#49b1b8</CssParameter>

@@ -4,10 +4,10 @@
     <id>WorkspaceInfoImpl-3e37a066:15a3750de58:-7fd4</id>
   </workspace>
   <enabled>true</enabled>
-  <name>WFS</name>
-  <title>KeM avalik OGC WFS kaardiandmete teenus</title>
+  <name>gsavalik.keskkonnainfo.wfs</name>
+  <title>Keskkonnainfo avalik OGC WFS kaardiandmete teenus</title>
   <maintainer>http://kemit.ee</maintainer>
-  <abstrct>EST: Keskkonnaministeeriumi allasutuste avalik OGC WFS kaardiandmete teenus. OGC WFS teenuste puhul on avatud kasutamiseks versioonid 1.1.0 ja 2.0.0. Teenuses olevatest andmetet tuletatud tööde tegemisel palume viidata andmete omanikule (vt viidet konkreetse kaardikihi juures). Juhul kui kihi kohta pole eraldi tingimusi määratud, on siinolevad andmed avaldatud CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ litsentsi alusel viitega Keskkonnaministeeriumile kui andmete allikale. Teenuses esitatud kaardikihtide andmed on informatiivsed ning me ei saa garanteerida selle teenuse või temas sisalduvate andmete kättesaadavust tulevikus. Nii nagu võimalik, anname endast parima, et selles teenuses sisalduvad andmehulgad oleks ajakohased. | ENG: Estonian Ministry of the Environment&apos;s agencies open access OGC web feature service (WFS) available for versions 1.1.0 and 2.0.0 of OGC WFS standard. All derived works relying on data from this service must include appropriate attribution. If not specified otherwise for a specific layer all data is published under the CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ license and attributed to the Estonian Ministry of the Environment. All content made available through this service endpoint is informative in nature and we cannot guarantee the continued availability of this service or access to any of the datasets herein. We will do our best to keep the content of this service up-to-date as far as is possible.</abstrct>
+  <abstrct>EST: Avalik keskkonnainfo OGC WFS kaardiandmete teenus. Avatud kasutamiseks OGC WFS versioonid 1.0.0, 1.1.0 ja 2.0.0. Teenuses olevatest andmetet tuletatud tööde tegemisel palume viidata andmete omanikule (vt viidet konkreetse kaardikihi juures). Juhul kui kihi kohta pole eraldi tingimusi määratud, on siinolevad  andmed avaldatud CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ litsentsi alusel viitega Keskkonnaministeeriumile kui andmete allikale. Teenuses esitatud kaardikihtide andmed on informatiivsed ning me ei saa garanteerida selle teenuse või temas sisalduvate andmete kättesaadavust tulevikus. Anname endast parima, et selles teenuses sisalduvad andmehulgad oleks siiski võimalikult ajakohased. | ENG: Open access OGC web feature service (WFS) for mixed environmental data themes available in versions 1.0.0, 1.1.0 and 2.0.0 of OGC WFS standard. All derived works relying on data from this service must include appropriate attribution. If not specified otherwise for a specific layer all data is published under the CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ license and attributed to the Estonian Ministry of the Environment. All content made available through this service endpoint is informative in nature and we cannot guarantee the continued availability of this service or access to any of the datasets herein. We will do our best to keep the content of this service as up-to-date as is possible.</abstrct>
   <accessConstraints>NONE</accessConstraints>
   <fees>NONE</fees>
   <versions>
@@ -32,12 +32,7 @@
   <schemaBaseURL>http://schemas.opengis.net</schemaBaseURL>
   <verbose>false</verbose>
   <metadata>
-    <entry key="inspire.language">eng</entry>
-    <entry key="inspire.metadataURLType">application/vnd.iso.19139+xml</entry>
     <entry key="SHAPE-ZIP_DEFAULT_PRJ_IS_ESRI">false</entry>
-    <entry key="inspire.spatialDatasetIdentifier">corine2012,,</entry>
-    <entry key="inspire.createExtendedCapabilities">false</entry>
-    <entry key="inspire.metadataURL">http://inspire.maaamet.ee/geoportal/rest/document?id=%7B385C3992-3829-442A-B680-959A79FC1819%7D</entry>
   </metadata>
   <gml>
     <entry>
@@ -63,7 +58,7 @@
     </entry>
   </gml>
   <serviceLevel>BASIC</serviceLevel>
-  <maxFeatures>1000000</maxFeatures>
+  <maxFeatures>100000</maxFeatures>
   <featureBounding>false</featureBounding>
   <canonicalSchemaLocation>false</canonicalSchemaLocation>
   <encodeFeatureMember>false</encodeFeatureMember>

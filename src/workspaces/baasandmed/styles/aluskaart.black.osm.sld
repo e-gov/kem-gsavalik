@@ -4,6 +4,7 @@
     <Name>osm</Name>
     <UserStyle>
       <Name>aluskaart.black.osm</Name>
+      <Abstract>Kaardistiil OpenStreetMapi hoonete ja teejoonte kuvamiseks mustvalge aluskaardina.</Abstract>
       <FeatureTypeStyle>
       	<FeatureTypeName>buildings</FeatureTypeName>
         <Rule>

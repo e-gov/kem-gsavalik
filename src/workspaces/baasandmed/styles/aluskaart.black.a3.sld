@@ -4,6 +4,7 @@
     <Name>a3</Name>
     <UserStyle>
       <Name>aluskaart.black.a3</Name>
+      <Abstract>Kaardistiil asustusüksuste kuvamiseks mustvalge aluskaardina.</Abstract>
       <FeatureTypeStyle>
       	<FeatureTypeName>ehak_asustus</FeatureTypeName>
         <Rule>
