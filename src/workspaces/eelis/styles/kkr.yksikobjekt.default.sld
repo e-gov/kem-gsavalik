@@ -3,7 +3,7 @@
     <Name>yksikobjektid</Name>
     <UserStyle>
       <Title>kkr.yksikobjekt.default</Title>
-      <Abstract>Kaardistiil kaitsealuste üksikobjektide kuvamiseks. Ikoonid: Regio CC 2.0 BY-NC-SA (vt lisaks http://regio.ee/cc)</Abstract>
+      <Abstract>Kaardistiil kaitsealuste üksikobjektide kuvamiseks. Kasutatud leppemärgid @ CC BY-NC-SA 2.0: Regio (vt lisaks http://regio.ee/cc)</Abstract>
       <FeatureTypeStyle>
         <Name>yksikobjektid_polygonid</Name>
         <!-- 25K - nK -->
