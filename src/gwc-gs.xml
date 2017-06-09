@@ -26,6 +26,7 @@
   <gutter>0</gutter>
   <defaultCachingGridSetIds>
     <string>EPSG:3301</string>
+    <string>EPSG:3857</string>
   </defaultCachingGridSetIds>
   <defaultCoverageCacheFormats>
     <string>image/png</string>

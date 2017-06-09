@@ -5,13 +5,23 @@
   <name>eelis:kr_hoiuala</name>
   <mimeFormats>
     <string>image/png</string>
-    <string>image/jpeg</string>
     <string>application/json;type=geojson</string>
     <string>application/json;type=topojson</string>
   </mimeFormats>
   <gridSubsets>
     <gridSubset>
       <gridSetName>EPSG:3301</gridSetName>
+      <zoomStart>0</zoomStart>
+      <zoomStop>14</zoomStop>
+      <minCachedLevel>0</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
+    </gridSubset>
+    <gridSubset>
+      <gridSetName>EPSG:3857</gridSetName>
+      <zoomStart>5</zoomStart>
+      <zoomStop>18</zoomStop>
+      <minCachedLevel>5</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
     </gridSubset>
   </gridSubsets>
   <metaWidthHeight>
@@ -26,7 +36,6 @@
       <defaultValue></defaultValue>
       <availableStyles class="sorted-set">
         <string>eelis:kkr.hoiuala.lipik</string>
-        <string>polygon</string>
       </availableStyles>
       <defaultStyle>eelis:kkr.hoiuala.default</defaultStyle>
     </styleParameterFilter>

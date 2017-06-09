@@ -10,14 +10,17 @@
   <gridSubsets>
     <gridSubset>
       <gridSetName>EPSG:3301</gridSetName>
+      <zoomStart>0</zoomStart>
+      <zoomStop>14</zoomStop>
+      <minCachedLevel>0</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
     </gridSubset>
     <gridSubset>
-      <gridSetName>EPSG:4326</gridSetName>
-      <zoomStart>6</zoomStart>
-    </gridSubset>
-    <gridSubset>
-      <gridSetName>EPSG:900913</gridSetName>
-      <zoomStart>6</zoomStart>
+      <gridSetName>EPSG:3857</gridSetName>
+      <zoomStart>5</zoomStart>
+      <zoomStop>18</zoomStop>
+      <minCachedLevel>5</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
     </gridSubset>
   </gridSubsets>
   <metaWidthHeight>
