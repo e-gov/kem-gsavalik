@@ -1,0 +1,25 @@
+<layer>
+  <name>kr_hooldatav_skv</name>
+  <id>LayerInfoImpl-78b2ce60:15969feee73:-7fc5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-78b2ce60:15969feee73:-7fc7</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-78b2ce60:15969feee73:-7f67</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-78b2ce60:15969feee73:-7fc6</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: EELIS (Eesti Looduse Infosüsteem - Keskkonnaregister): Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

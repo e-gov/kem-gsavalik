@@ -1,0 +1,25 @@
+<layer>
+  <name>kr_tundlikala</name>
+  <id>LayerInfoImpl-72ebcfe8:15a0435916e:-7e05</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72ebcfe8:15a0435916e:-7e09</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-72ebcfe8:15a0435916e:-7e07</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72ebcfe8:15a0435916e:-7e06</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: EELIS (Eesti Looduse Infosüsteem - Keskkonnaregister): Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
