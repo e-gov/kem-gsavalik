@@ -31,7 +31,7 @@
                <ogc:Function name="area">
                   <ogc:PropertyName>shape</ogc:PropertyName>
                </ogc:Function>
-               <ogc:Literal>1000</ogc:Literal>
+               <ogc:Literal>100</ogc:Literal>
             </ogc:PropertyIsGreaterThanOrEqualTo>
           </ogc:Filter>
           <se:MinScaleDenominator>10000</se:MinScaleDenominator>
@@ -39,12 +39,12 @@
           <se:PolygonSymbolizer>
             <se:Fill>
               <se:SvgParameter name="fill">#c3b8bc</se:SvgParameter>
-              <se:SvgParameter name="fill-opacity">0.2</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">0.5</se:SvgParameter>
             </se:Fill>
             <se:Stroke>
               <se:SvgParameter name="stroke">#c3b8bc</se:SvgParameter>
-              <se:SvgParameter name="stroke-opacity">0.2</se:SvgParameter>
-              <se:SvgParameter name="stroke-width">1.7</se:SvgParameter>
+              <se:SvgParameter name="stroke-opacity">0.5</se:SvgParameter>
+              <se:SvgParameter name="stroke-width">1.9</se:SvgParameter>
             </se:Stroke>
           </se:PolygonSymbolizer>
         </se:Rule>
@@ -59,7 +59,7 @@
                <ogc:Function name="area">
                   <ogc:PropertyName>shape</ogc:PropertyName>
                </ogc:Function>
-               <ogc:Literal>1000</ogc:Literal>
+               <ogc:Literal>100</ogc:Literal>
             </ogc:PropertyIsLessThan>
           </ogc:Filter>
           <se:MinScaleDenominator>10000</se:MinScaleDenominator>
@@ -171,7 +171,7 @@
                <ogc:Function name="area">
                   <ogc:PropertyName>shape</ogc:PropertyName>
                </ogc:Function>
-               <ogc:Literal>1000</ogc:Literal>
+               <ogc:Literal>100</ogc:Literal>
             </ogc:PropertyIsGreaterThanOrEqualTo>
           </ogc:Filter>
           <se:MinScaleDenominator>10000</se:MinScaleDenominator>
@@ -204,7 +204,7 @@
                <ogc:Function name="area">
                   <ogc:PropertyName>shape</ogc:PropertyName>
                </ogc:Function>
-               <ogc:Literal>1000</ogc:Literal>
+               <ogc:Literal>100</ogc:Literal>
             </ogc:PropertyIsLessThan>
           </ogc:Filter>
           <se:MinScaleDenominator>10000</se:MinScaleDenominator>
