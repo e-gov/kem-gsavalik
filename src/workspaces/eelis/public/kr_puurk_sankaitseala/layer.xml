@@ -1,0 +1,17 @@
+<layer>
+  <name>kr_puurk_sankaitseala</name>
+  <id>LayerInfoImpl-69cc06cb:15df49a5fdc:-7ff1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72f82b97:15a5b511968:-454</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-69cc06cb:15df49a5fdc:-7ff2</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: EELIS (Eesti Looduse Infosüsteem - Keskkonnaregister): Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

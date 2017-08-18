@@ -1,0 +1,17 @@
+<layer>
+  <name>lohejoed</name>
+  <id>LayerInfoImpl--7a342113:15c158a5ef4:-6795</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--7a342113:15c158a5ef4:-6798</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7a342113:15c158a5ef4:-6796</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: EELIS (Eesti Looduse Infosüsteem - Keskkonnaregister): Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

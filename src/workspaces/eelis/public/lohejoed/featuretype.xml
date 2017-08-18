@@ -1,0 +1,74 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--7a342113:15c158a5ef4:-6796</id>
+  <name>lohejoed</name>
+  <nativeName>kratt_l6hej6ed</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--6b87e486:15906d89eeb:-7fbe</id>
+  </namespace>
+  <title>Lõhejõed</title>
+  <abstract>Lõhe, jõeforelli, meriforelli ja harjuse kudemis- ja elupaikade nimistusse kantud veekogud. Nimetatud veekogud kuuluvad lõhe, jõeforelli, meriforelli ja harjuse kudemis- ja elupaikade nimistusse, mis on kinnitatud keskkonnaministri 15.06.2004 a. määrusega nr 73 (RTL 2004, 87, 1362; 2005, 47, 652).&#xd;
+&#xd;
+Hetkel ei ole tegelikult EELIS andmebaasiga seotud. &#xd;
+&#xd;
+Kaardikihil ei ole tegemist täpsete piiridega, need markeerivad seda lõiku jõest, mis kuulub lõhejõgede nimistusse. Lähtuda tuleks looduses reaalselt olemasolevast veekogust.&#xd;
+&#xd;
+Kiht on loodud 09.01.2015 ETAK alusel. &#xd;
+ID väljal on määruses antud järjekorranumber. Andmed @ CC BY 4.0: EELIS (Eesti Looduse Infosüsteem - Keskkonnaregister): Keskkonnaagentuur</abstract>
+  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
+  GEOGCS[&quot;EST97&quot;,
+    DATUM[&quot;Estonia 1997&quot;,
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]],
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      AUTHORITY[&quot;EPSG&quot;,&quot;6180&quot;]],
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]],
+    UNIT[&quot;degree&quot;, 0.017453292519943295],
+    AXIS[&quot;Geodetic longitude&quot;, EAST],
+    AXIS[&quot;Geodetic latitude&quot;, NORTH],
+    AUTHORITY[&quot;EPSG&quot;,&quot;4180&quot;]],
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]],
+  PARAMETER[&quot;central_meridian&quot;, 24.0],
+  PARAMETER[&quot;latitude_of_origin&quot;, 57.51755393055556],
+  PARAMETER[&quot;standard_parallel_1&quot;, 59.333333333333336],
+  PARAMETER[&quot;false_easting&quot;, 500000.0],
+  PARAMETER[&quot;false_northing&quot;, 6375000.0],
+  PARAMETER[&quot;scale_factor&quot;, 1.0],
+  PARAMETER[&quot;standard_parallel_2&quot;, 58.0],
+  UNIT[&quot;m&quot;, 1.0],
+  AXIS[&quot;Easting&quot;, EAST],
+  AXIS[&quot;Northing&quot;, NORTH],
+  AUTHORITY[&quot;EPSG&quot;,&quot;3301&quot;]]</nativeCRS>
+  <srs>EPSG:3301</srs>
+  <nativeBoundingBox>
+    <minx>382120.599064</minx>
+    <maxx>739208.177741</maxx>
+    <miny>6377140.987788</miny>
+    <maxy>6607300.571341</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.913232553078252</minx>
+    <maxx>28.23034677575489</maxx>
+    <miny>57.47290554826339</miny>
+    <maxy>59.60309382013897</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;,
+  DATUM[&quot;WGS84&quot;,
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]],
+  PRIMEM[&quot;Greenwich&quot;, 0.0],
+  UNIT[&quot;degree&quot;, 0.017453292519943295],
+  AXIS[&quot;Geodetic longitude&quot;, EAST],
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-78b2ce60:15969feee73:-7fef</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
