@@ -5,7 +5,7 @@
   <namespace>
     <id>NamespaceInfoImpl-3e37a066:15a3750de58:-7fd3</id>
   </namespace>
-  <title>muinsusobjekt</title>
+  <title>Muinsuskaitsealused ja kinnismälestiste objektid</title>
   <abstract>Muinsuskaitsealused ja kinnismälestiste objektid. Andmed laetud Maa-ameti KPO IS süsteemist. Andmed @ CC-BY 4.0 Muinsuskaitseamet</abstract>
   <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
   GEOGCS[&quot;EST97&quot;,
