@@ -6,7 +6,11 @@
     <id>NamespaceInfoImpl-3e37a066:15a3750de58:-7fd3</id>
   </namespace>
   <title>Muinsuskaitsealused ja kinnismälestiste objektid</title>
-  <abstract>Muinsuskaitsealused ja kinnismälestiste objektid. Andmed laetud Maa-ameti KPO IS süsteemist. Andmed @ CC-BY 4.0 Muinsuskaitseamet</abstract>
+  <abstract>Muinsuskaitsealused ja kinnismälestiste objektid. Andmeid uuendatakse Maa-ameti KPO IS süsteemist kord nädalas.
+Ajaloomälestis on poliitiliste ja ühiskondlike protsesside, oluliste ajaloosündmuste või silmapaistvate ühiskonna- ning kultuuritegelastega seotud asi või paik. Ajaloomälestiseks võivad olla ajaloolise väärtusega ehitised, monumendid ja mälestusmärgid, kalmistud ja kirikuaiad, üksikisikute hauad, sõjahauad ning lahinguväljad, samuti piirikivid, rahvapärimuslikud kohad, klaasikodade asukohad jne.
+Ehitismälestis on hoone, rajatis, kultuurmaastik või nende kompleks. Kultuuriväärtusega ehitised ja nende kompleksid on olulised Eesti ruumilise keskkonna arengu ning kohaliku identiteedi tähistajad , mitmekesise elukeskkonna hoidjad ja vaatamisväärsused. Ehitismälestiseks võivad olla arhitektuurse väärtusega elamud, avalikud hooned, tööstus- ja sakraalehitised, maa-arhitektuur, samuti poliitiliste ja ühiskondlike protsesside, oluliste ajaloosündmuste või silmapaistvate isikutega seotud ehitised, teaduse ja tehnika arengut või asustuse kujunemislugu kajastavad ehitised.
+Arheoloogiamälestis on riigi kaitse alla võetud arheoloogiline leiukoht ehk muistis. Arheoloogiamälestiseks võivad olla muinas -, kesk- ja uusaegsed elupaigad, kultusekohad, matmispaigad, maaharimise ja tööndusega seotud kohad, laevahuku kohad, muud inimtegevuse tulemusena muudetud paigad, inimese valmistatud asjad või inimtegevust kirjeldavad elus ja eluta looduse jäänused nii maa peal, maa sees kui ka vee all, samuti nendega seotud ümbrus.
+Andmed @ CC BY 4.0 Muinsuskaitseamet</abstract>
   <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
   GEOGCS[&quot;EST97&quot;,
     DATUM[&quot;Estonia 1997&quot;,
