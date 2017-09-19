@@ -1,0 +1,13 @@
+<dataStore>
+  <id>DataStoreInfoImpl-9c309ff:15e5abb0a13:-7ee3</id>
+  <name>metsaregister</name>
+  <type>SpatiaLite</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-9c309ff:15e5abb0a13:-7ee5</id>
+  </workspace>
+  <connectionParameters>
+    <!-- entry key="" parameetrid sellele datastore'ile-->
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

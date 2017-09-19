@@ -1,0 +1,22 @@
+<layer>
+  <name>eraldis</name>
+  <id>LayerInfoImpl-9c309ff:15e5abb0a13:-7ee0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-9c309ff:15e5abb0a13:-7ed8</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-9c309ff:15e5abb0a13:-7ec8</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-9c309ff:15e5abb0a13:-7ee1</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: Metsaregister</title>
+    <href>https://mets-ave.envir.ee/</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
