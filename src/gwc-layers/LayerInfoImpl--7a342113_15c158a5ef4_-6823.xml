@@ -46,6 +46,12 @@
   </metaWidthHeight>
   <expireCache>0</expireCache>
   <expireClients>0</expireClients>
-  </parameterFilters>
+  <parameterFilters>
+    <styleParameterFilter>
+      <key>STYLES</key>
+      <defaultValue></defaultValue>
+      <availableStyles class="sorted-set"/>
+      <defaultStyle>eelis:kkr.vep.default</defaultStyle>
+    </styleParameterFilter>
   <gutter>0</gutter>
 </GeoServerTileLayer>
