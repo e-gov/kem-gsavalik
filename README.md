@@ -35,6 +35,10 @@ Hea ülevaate SLD kujundustest koos näidetega annab
 Samuti pakub hea taustainfo
 [GeoServeri dokumentatsioon](http://docs.geoserver.org/latest/en/user/styling/sld/index.html).
 
+KeM avaliku kaardiserveriga seonduvaid töid tutvustav ettekanne [Eesti
+Geoinformaatika Seltsi](https://www.estgis.ee) [2017. a aastakonverentsil](https://www.estgis.ee/uritused/aastakonverents/2017-2/kava/)
+on nähtav-tagasimängitav [siin](https://e-gov.github.io/kem-gsavalik/doc/20170929/kem-avalik-kaardiserver.html)
+
 ## Löö kaasa
 Soovi korral võid ka ise kaasa lüüa KeM avaliku kaardiserveri teenuste
 arendamises. Ava [õssu](https://github.com/e-gov/kem-gsavalik/issues) (_issue_)
@@ -44,14 +48,14 @@ grupikihid, teenuste / kaardikihtide metaanded jms.
 Uute kaardikihtide lisamise soovide osas võiks üle käia teemad
 [okestonia/opendata-issue-tracker](https://github.com/okestonia/opendata-issue-tracker/issues)
 (OIT) lehel ning oma soovid ja vajadused sinna kommunikeerida. Seeläbi saame teabe
-huvipakkuvatest andmetest ühes koos hoida. 
+huvipakkuvatest andmetest ühes koos hoida.
 
-Kui [OIT repo](https://github.com/okestonia/opendata-issue-tracker/issues) 
-arutelus selgub, et konkreetne andmevajadus on võimalik lahendada `gsavalik` 
-GeoServeril, siis avame siin repos eraldi [õssu](https://github.com/e-gov/kem-gsavalik/issues), 
-milles saab seejärel läbi töötada täpsema andmekoosseisu (s.t atribuutandmed, 
-mida saab/võib seadusest või muudest kohustustest tulenevalt avaldada), viitega 
-OITi vastavale õssule. Viitamine OIT arutelule pakub tagasiside algsele 
+Kui [OIT repo](https://github.com/okestonia/opendata-issue-tracker/issues)
+arutelus selgub, et konkreetne andmevajadus on võimalik lahendada `gsavalik`
+GeoServeril, siis avame siin repos eraldi [õssu](https://github.com/e-gov/kem-gsavalik/issues),
+milles saab seejärel läbi töötada täpsema andmekoosseisu (s.t atribuutandmed,
+mida saab/võib seadusest või muudest kohustustest tulenevalt avaldada), viitega
+OITi vastavale õssule. Viitamine OIT arutelule pakub tagasiside algsele
 andmevajadusele.
 
 Kui soovid ise teha täiendusi/muudatusi/parandusi, siis võid avada tõmbepalve
