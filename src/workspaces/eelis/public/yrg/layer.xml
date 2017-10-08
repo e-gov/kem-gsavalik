@@ -1,0 +1,21 @@
+<layer>
+  <name>yrg</name>
+  <id>LayerInfoImpl--7a342113:15c158a5ef4:-6887</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--7a342113:15c158a5ef4:-6885</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--7a342113:15c158a5ef4:-6881</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--7a342113:15c158a5ef4:-6888</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: EELIS (Eesti Looduse Infosüsteem - Keskkonnaregister): Keskkonnaagentuur</title>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
