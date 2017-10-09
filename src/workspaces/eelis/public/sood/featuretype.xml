@@ -1,12 +1,16 @@
 <featureType>
   <id>FeatureTypeInfoImpl--7a342113:15c158a5ef4:-67e7</id>
   <name>sood</name>
-  <nativeName>kratt_sood</nativeName>
+  <nativeName>kratt_sood_public</nativeName>
   <namespace>
     <id>NamespaceInfoImpl--6b87e486:15906d89eeb:-7fbe</id>
   </namespace>
-  <title>Sood</title>
-  <abstract>Kiht sisaldab kõiki teadaolevaid täielikult või osaliselt sootaimkonnaga (Paal 1997: 3. taimkond) kaetud alasid Eestis. Kaardikiht on valminud Euroopa Majanduspiirkonna finantsmehhanismi ja Norra finantsmehhanismi poolt rahastatud projekti EE0045 &quot;Estonian Mires Inventory for maintaining biodiversity&quot; raames. * ELF-i poolt üle antud 04.05.2011 kirja nr 10.-9/1258 alusel. * Muudetud 9.05.2012 kirja nr 10.-9/1122 alusel. * Muudetud 6.12.2012 kirja nr 10.-9/2899 alusel.* Muudetud 14.05.2013 kirja nr 10.-9/1079 alusel. Muudetud 5.12.2016 kirja nr 7-1/16/2043 alusel. Andmed @ CC BY 4.0: EELIS (Eesti Looduse Infosüsteem - Keskkonnaregister): Keskkonnaagentuur</abstract>
+  <title>Eesti sood</title>
+  <abstract>Kiht sisaldab kõiki teadaolevaid täielikult või osaliselt sootaimkonnaga (Paal 1997: 3. taimkond) kaetud alasid Eestis. Kaardikiht on valminud Euroopa Majanduspiirkonna finantsmehhanismi ja Norra finantsmehhanismi poolt rahastatud projekti EE0045 &quot;Estonian Mires Inventory for maintaining biodiversity&quot; raames. * ELF-i poolt üle antud 04.05.2011 kirja nr 10.-9/1258 alusel. * Muudetud 9.05.2012 kirja nr 10.-9/1122 alusel. * Muudetud 6.12.2012 kirja nr 10.-9/2899 alusel.* Muudetud 14.05.2013 kirja nr 10.-9/1079 alusel. Muudetud 5.12.2016 kirja nr 7-1/16/2043 alusel.
+Andmekihi koostaja: Eestimaa Looduse Fond (ELF).
+Andmekihi hoidja: Eesti Looduse Infosüsteem (EELIS).
+Andmed viimati uuendatud: 30. november 2016.
+Andmed @ CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)</abstract>
   <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
   GEOGCS[&quot;EST97&quot;,
     DATUM[&quot;Estonia 1997&quot;,
