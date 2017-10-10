@@ -5,7 +5,8 @@
   <namespace>
     <id>NamespaceInfoImpl-3e37a066:15a3750de58:-7fd3</id>
   </namespace>
-  <title>Klassifikaator: Corine maakatteklassid. Neljatasemeline klassifikatsioon. Vt http://www.keskkonnainfo.ee/main/index.php/et/meist/projektid/corine-land-cover.</title>
+  <title>Klassifikaator: Corine maakatteklassid</title>
+  <abstract>Neljatasemeline klassifikatsioon. Vt http://www.keskkonnainfo.ee/main/index.php/et/meist/projektid/corine-land-cover.</abstract>
   <srs>EPSG:404000</srs>
   <nativeBoundingBox>
     <minx>-1.0</minx>

@@ -5,7 +5,8 @@
   <namespace>
     <id>NamespaceInfoImpl-3e37a066:15a3750de58:-7fd3</id>
   </namespace>
-  <title>CORINE maakate (2012). Täpsemad kasutustingimused: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013R1159. Andmed @ Copernicus programme of the European Union</title>
+  <title>CORINE maakate (2012)</title>
+  <abstract>Täpsemad kasutustingimused: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013R1159. Andmed @ Copernicus programme of the European Union</abstract>
   <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
   GEOGCS[&quot;EST97&quot;,
     DATUM[&quot;Estonia 1997&quot;,

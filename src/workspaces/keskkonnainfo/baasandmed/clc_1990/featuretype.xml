@@ -5,7 +5,8 @@
   <namespace>
     <id>NamespaceInfoImpl-3e37a066:15a3750de58:-7fd3</id>
   </namespace>
-  <title>CORINE maakate (1990). Andmed @ CC BY 4.0: Keskkonnaagentuur</title>
+  <title>CORINE maakate (1990)</title>
+  <abstract>Andmed @ CC BY 4.0: Keskkonnaagentuur</abstract>
   <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
   GEOGCS[&quot;EST97&quot;,
     DATUM[&quot;Estonia 1997&quot;,
