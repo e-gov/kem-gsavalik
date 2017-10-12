@@ -1,0 +1,77 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--77c62e5d:15f107ba744:-7ffe</id>
+  <name>Lageraiealad</name>
+  <nativeName>Lageraiealad</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--48fa000c:15f10711a40:-7ffe</id>
+  </namespace>
+  <title>Lageraiealad</title>
+  <abstract>Aastatel 2011-2016 tehtud metsade lageraiealade kaardikiht, andmed saadud satelliitpiltide võrdluse tulemusel. Kaardistus teostatud Tartu Observatooriumi poolt Keskkonnaagentuuri tellimusel.&#xd;
+Andmed @ CC-BY 4.0 Keskkonnaagentuur.</abstract>
+  <keywords>
+    <string>features</string>
+    <string>Lageraiealad</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;, &#xd;
+  GEOGCS[&quot;EST97&quot;, &#xd;
+    DATUM[&quot;Estonia 1997&quot;, &#xd;
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], &#xd;
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], &#xd;
+      AUTHORITY[&quot;EPSG&quot;,&quot;6180&quot;]], &#xd;
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+    UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+    AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;4180&quot;]], &#xd;
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]], &#xd;
+  PARAMETER[&quot;central_meridian&quot;, 24.0], &#xd;
+  PARAMETER[&quot;latitude_of_origin&quot;, 57.51755393055556], &#xd;
+  PARAMETER[&quot;standard_parallel_1&quot;, 59.333333333333336], &#xd;
+  PARAMETER[&quot;false_easting&quot;, 500000.0], &#xd;
+  PARAMETER[&quot;false_northing&quot;, 6375000.0], &#xd;
+  PARAMETER[&quot;scale_factor&quot;, 1.0], &#xd;
+  PARAMETER[&quot;standard_parallel_2&quot;, 58.0], &#xd;
+  UNIT[&quot;m&quot;, 1.0], &#xd;
+  AXIS[&quot;Easting&quot;, EAST], &#xd;
+  AXIS[&quot;Northing&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;3301&quot;]]</nativeCRS>
+  <srs>EPSG:3301</srs>
+  <nativeBoundingBox>
+    <minx>372900.0002752575</minx>
+    <maxx>737499.9999573671</maxx>
+    <miny>6377375.000408919</miny>
+    <maxy>6615050.0000894675</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.74551344533703</minx>
+    <maxx>28.20880520158391</maxx>
+    <miny>57.47591096380035</miny>
+    <maxy>59.672613446209596</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="elevation">
+      <dimensionInfo>
+        <enabled>false</enabled>
+      </dimensionInfo>
+    </entry>
+    <entry key="time">
+      <dimensionInfo>
+        <enabled>false</enabled>
+        <defaultValue/>
+      </dimensionInfo>
+    </entry>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--48fa000c:15f10711a40:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
