@@ -1,0 +1,16 @@
+<layer>
+  <name>hrf_fond</name>
+  <id>LayerInfoImpl-305608db:15f05972546:-7fe6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-305608db:15f05972546:-7fee</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-305608db:15f05972546:-7fe7</id>
+  </resource>
+  <attribution>
+    <href>https://rmk.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
