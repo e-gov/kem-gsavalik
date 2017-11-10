@@ -6,6 +6,7 @@
     <id>NamespaceInfoImpl-9c309ff:15e5abb0a13:-7ee4</id>
   </namespace>
   <title>Metsaregistri eraldiste puistu koosseis</title>
+  <abstract>Metsaregistri kehtivate eraldiste puistu koosesis. Andmetes on toodud esimese rinde (klassifikaator rinne_kood, väärtused metsaregister:kl_rinne) puuliigid (klassifikaator puuliik_kood, väärtused metsaregister:kl_puuliik).</abstract>
   <srs>EPSG:404000</srs>
   <nativeBoundingBox>
     <minx>-1.0</minx>
@@ -18,12 +19,12 @@
     <maxx>0.0</maxx>
     <miny>-1.0</miny>
     <maxy>0.0</maxy>
-    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
-  DATUM[&quot;WGS84&quot;, 
-    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
-  PRIMEM[&quot;Greenwich&quot;, 0.0], 
-  UNIT[&quot;degree&quot;, 0.017453292519943295], 
-  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;,
+  DATUM[&quot;WGS84&quot;,
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]],
+  PRIMEM[&quot;Greenwich&quot;, 0.0],
+  UNIT[&quot;degree&quot;, 0.017453292519943295],
+  AXIS[&quot;Geodetic longitude&quot;, EAST],
   AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
