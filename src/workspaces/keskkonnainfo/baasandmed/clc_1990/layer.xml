@@ -1,0 +1,17 @@
+<layer>
+  <name>clc_1990</name>
+  <id>LayerInfoImpl-9c309ff:15e5abb0a13:-7f4d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-9c309ff:15e5abb0a13:-7f55</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-9c309ff:15e5abb0a13:-7f4e</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

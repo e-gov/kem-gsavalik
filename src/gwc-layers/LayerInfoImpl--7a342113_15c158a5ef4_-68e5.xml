@@ -1,0 +1,56 @@
+<GeoServerTileLayer>
+  <id>LayerInfoImpl--7a342113:15c158a5ef4:-68e5</id>
+  <enabled>true</enabled>
+  <inMemoryCached>true</inMemoryCached>
+  <name>keskkonnainfo:prygilad_agregeeritud</name>
+  <mimeFormats>
+    <string>image/png</string>
+    <string>application/json;type=geojson</string>
+    <string>application/json;type=topojson</string>
+  </mimeFormats>
+  <gridSubsets>
+    <gridSubset>
+      <gridSetName>EPSG:3301</gridSetName>
+      <extent>
+        <coords>
+          <double>404715.942088</double>
+          <double>6387520.02412</double>
+          <double>733833.0</double>
+          <double>6606934.804</double>
+        </coords>
+      </extent>
+      <zoomStart>0</zoomStart>
+    </gridSubset>
+    <gridSubset>
+      <gridSetName>EPSG:3857</gridSetName>
+      <extent>
+        <coords>
+          <double>2483894.308228145</double>
+          <double>7877269.169296303</double>
+          <double>3131988.6846709857</double>
+          <double>8311174.4490852235</double>
+        </coords>
+      </extent>
+      <zoomStart>5</zoomStart>
+      <zoomStop>14</zoomStop>
+      <minCachedLevel>0</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
+    </gridSubset>
+  </gridSubsets>
+  <metaWidthHeight>
+    <int>1</int>
+    <int>1</int>
+  </metaWidthHeight>
+  <expireCache>0</expireCache>
+  <expireClients>0</expireClients>
+  <parameterFilters>
+    <styleParameterFilter>
+      <key>STYLES</key>
+      <defaultValue></defaultValue>
+      <allowedStyles class="sorted-set"/>
+      <availableStyles class="sorted-set"/>
+      <defaultStyle>keskkonnainfo:kaur.prygila.default</defaultStyle>
+    </styleParameterFilter>
+  </parameterFilters>
+  <gutter>0</gutter>
+</GeoServerTileLayer>

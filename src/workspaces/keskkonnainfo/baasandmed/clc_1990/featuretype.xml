@@ -1,0 +1,67 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-9c309ff:15e5abb0a13:-7f4e</id>
+  <name>clc_1990</name>
+  <nativeName>keskkonnainfo__clc_1990</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-3e37a066:15a3750de58:-7fd3</id>
+  </namespace>
+  <title>CORINE maakate (1990)</title>
+  <abstract>Andmed @ CC BY 4.0: Keskkonnaagentuur</abstract>
+  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;,
+  GEOGCS[&quot;EST97&quot;,
+    DATUM[&quot;Estonia 1997&quot;,
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]],
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+      AUTHORITY[&quot;EPSG&quot;,&quot;6180&quot;]],
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]],
+    UNIT[&quot;degree&quot;, 0.017453292519943295],
+    AXIS[&quot;Geodetic longitude&quot;, EAST],
+    AXIS[&quot;Geodetic latitude&quot;, NORTH],
+    AUTHORITY[&quot;EPSG&quot;,&quot;4180&quot;]],
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]],
+  PARAMETER[&quot;central_meridian&quot;, 24.0],
+  PARAMETER[&quot;latitude_of_origin&quot;, 57.51755393055556],
+  PARAMETER[&quot;standard_parallel_1&quot;, 59.333333333333336],
+  PARAMETER[&quot;false_easting&quot;, 500000.0],
+  PARAMETER[&quot;false_northing&quot;, 6375000.0],
+  PARAMETER[&quot;scale_factor&quot;, 1.0],
+  PARAMETER[&quot;standard_parallel_2&quot;, 58.0],
+  UNIT[&quot;m&quot;, 1.0],
+  AXIS[&quot;Easting&quot;, EAST],
+  AXIS[&quot;Northing&quot;, NORTH],
+  AUTHORITY[&quot;EPSG&quot;,&quot;3301&quot;]]</nativeCRS>
+  <srs>EPSG:3301</srs>
+  <nativeBoundingBox>
+    <minx>346648.5938</minx>
+    <maxx>740219.2485</maxx>
+    <miny>6376115.4954</miny>
+    <maxy>6653234.9954</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.25261329564111</minx>
+    <maxx>28.300186152407118</maxx>
+    <miny>57.46317462391114</miny>
+    <maxy>60.01475530047413</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;,
+  DATUM[&quot;WGS84&quot;,
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]],
+  PRIMEM[&quot;Greenwich&quot;, 0.0],
+  UNIT[&quot;degree&quot;, 0.017453292519943295],
+  AXIS[&quot;Geodetic longitude&quot;, EAST],
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-3e37a066:15a3750de58:-7fd2</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

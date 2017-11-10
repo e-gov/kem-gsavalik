@@ -1,0 +1,15 @@
+<layer>
+  <name>kl_maakate</name>
+  <id>LayerInfoImpl-9c309ff:15e5abb0a13:-7f48</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37b18cc6:14d5d036d48:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-9c309ff:15e5abb0a13:-7f49</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
