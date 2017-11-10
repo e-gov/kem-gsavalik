@@ -1,0 +1,13 @@
+<dataStore>
+  <id>DataStoreInfoImpl-305608db:15f05972546:-7fde</id>
+  <name>metsaregister</name>
+  <type><!-- datastore'i tüüp --></type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-305608db:15f05972546:-7fea</id>
+  </workspace>
+  <connectionParameters>
+    <!-- entry key="" parameetrid sellele datastore'ile-->
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
