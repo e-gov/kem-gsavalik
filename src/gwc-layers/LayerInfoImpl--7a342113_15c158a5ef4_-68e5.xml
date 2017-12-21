@@ -13,27 +13,30 @@
       <gridSetName>EPSG:3301</gridSetName>
       <extent>
         <coords>
-          <double>404715.942088</double>
-          <double>6387520.02412</double>
-          <double>733833.0</double>
-          <double>6606934.804</double>
+          <double>40500.0</double>
+          <double>5993000.0</double>
+          <double>1064500.0</double>
+          <double>7017000.0</double>
         </coords>
       </extent>
       <zoomStart>0</zoomStart>
+      <zoomStop>14</zoomStop>
+      <minCachedLevel>0</minCachedLevel>
+      <maxCachedLevel>13</maxCachedLevel>
     </gridSubset>
     <gridSubset>
       <gridSetName>EPSG:3857</gridSetName>
       <extent>
         <coords>
-          <double>2483894.308228145</double>
-          <double>7877269.169296303</double>
-          <double>3131988.6846709857</double>
-          <double>8311174.4490852235</double>
+          <double>1895077.536859468</double>
+          <double>7146853.682714877</double>
+          <double>3907986.127196144</double>
+          <double>9064985.563917274</double>
         </coords>
       </extent>
       <zoomStart>5</zoomStart>
-      <zoomStop>14</zoomStop>
-      <minCachedLevel>0</minCachedLevel>
+      <zoomStop>18</zoomStop>
+      <minCachedLevel>5</minCachedLevel>
       <maxCachedLevel>13</maxCachedLevel>
     </gridSubset>
   </gridSubsets>
