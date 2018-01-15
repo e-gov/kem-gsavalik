@@ -2,22 +2,13 @@
   <id>DataStoreInfoImpl--48fa000c:15f10711a40:-7ffd</id>
   <name>vesi_andmed</name>
   <description>vesi_andmed</description>
-  <type>Shapefile</type>
+  <type>SpatiaLite</type>
   <enabled>true</enabled>
   <workspace>
     <id>WorkspaceInfoImpl--48fa000c:15f10711a40:-7fff</id>
   </workspace>
   <connectionParameters>
-    <entry key="charset">ISO-8859-1</entry>
-    <entry key="filetype">shapefile</entry>
-    <entry key="create spatial index">true</entry>
-    <entry key="memory mapped buffer">false</entry>
-    <entry key="timezone">Europe/Helsinki</entry>
-    <entry key="enable spatial index">true</entry>
-    <entry key="namespace">http://kemit.ee/vesi</entry>
-    <entry key="cache and reuse memory maps">true</entry>
-    <entry key="url">file:data/shapefiles/Lageraiealad.shp</entry>
-    <entry key="fstype">shape</entry>
+    <!-- entry key="" parameetrid sellele datastore'ile-->
   </connectionParameters>
   <__default>false</__default>
 </dataStore>
