@@ -9,7 +9,7 @@
     <Name>pk_obj_metsas</Name>
     <UserStyle>
       <Title>kkr.parandkultuur.default</Title>
-      <Abstract>Kaardistiil pärandkultuuri objektide kuvamiseks. Kasutatud leppemärk @ Anne Aaspõllu</Abstract>
+      <Abstract>Kaardistiil pärandkultuuri objektide kuvamiseks. Kasutatud leppemärk @ CC BY-SA 4.0: Anne Aaspõllu</Abstract>
       <FeatureTypeStyle>
       	<Name>pk_obj_metsas_poly_halo</Name>
         <Rule>
