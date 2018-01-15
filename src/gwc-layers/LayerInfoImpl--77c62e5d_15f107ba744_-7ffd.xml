@@ -2,7 +2,7 @@
   <id>LayerInfoImpl--77c62e5d:15f107ba744:-7ffd</id>
   <enabled>true</enabled>
   <inMemoryCached>true</inMemoryCached>
-  <name>vesi:Lageraiealad</name>
+  <name>vesi:lageraiealad</name>
   <mimeFormats>
     <string>image/png</string>
     <string>application/json;type=geojson</string>
@@ -13,10 +13,10 @@
       <gridSetName>EPSG:3301</gridSetName>
       <extent>
         <coords>
-          <double>372900.0002752575</double>
-          <double>6377375.000408919</double>
-          <double>737499.9999573671</double>
-          <double>6615050.0000894675</double>
+          <double>40500.0</double>
+          <double>5993000.0</double>
+          <double>1064500.0</double>
+          <double>7017000.0</double>
         </coords>
       </extent>
       <zoomStart>0</zoomStart>
@@ -28,10 +28,10 @@
       <gridSetName>EPSG:3857</gridSetName>
       <extent>
         <coords>
-          <double>2420699.4837732017</double>
-          <double>7858019.3116939785</double>
-          <double>3140189.8309269673</double>
-          <double>8327214.924356379</double>
+          <double>1895077.536859468</double>
+          <double>7146853.682714877</double>
+          <double>3907986.127196144</double>
+          <double>9064985.563917274</double>
         </coords>
       </extent>
       <zoomStart>5</zoomStart>
