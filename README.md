@@ -11,6 +11,10 @@ kaardikihtide definitsioonide ja SLD kujundusfailide kallal. Kaardikihid on
 teenuste kaudu, v.a juhul kui konkreetse andmehulga omanik pole seadusest vms
 kohustustest tulenevalt otsustanud teisiti.
 
+Avaldatud kaardikihtide täpsem loetelu ning WMS/WFS/TMS teenuste
+näidispäringud ja väljundformaadid on loetletud (doc/layers.md)[doc/layers.md]
+lehel.
+
 KeM avaliku kaardiserverina on kasutusel [GeoServer](http://geoserver.org) ja
 siin repos töötame `GEOSERVER_DATA_DIR` kallal. Repositooriumi struktuur on
 üles seatud selliselt, et oleks võimalik kõik kaustad [src](src) alt
@@ -44,14 +48,14 @@ grupikihid, teenuste / kaardikihtide metaanded jms.
 Uute kaardikihtide lisamise soovide osas võiks üle käia teemad
 [okestonia/opendata-issue-tracker](https://github.com/okestonia/opendata-issue-tracker/issues)
 (OIT) lehel ning oma soovid ja vajadused sinna kommunikeerida. Seeläbi saame teabe
-huvipakkuvatest andmetest ühes koos hoida. 
+huvipakkuvatest andmetest ühes koos hoida.
 
-Kui [OIT repo](https://github.com/okestonia/opendata-issue-tracker/issues) 
-arutelus selgub, et konkreetne andmevajadus on võimalik lahendada `gsavalik` 
-GeoServeril, siis avame siin repos eraldi [õssu](https://github.com/e-gov/kem-gsavalik/issues), 
-milles saab seejärel läbi töötada täpsema andmekoosseisu (s.t atribuutandmed, 
-mida saab/võib seadusest või muudest kohustustest tulenevalt avaldada), viitega 
-OITi vastavale õssule. Viitamine OIT arutelule pakub tagasiside algsele 
+Kui [OIT repo](https://github.com/okestonia/opendata-issue-tracker/issues)
+arutelus selgub, et konkreetne andmevajadus on võimalik lahendada `gsavalik`
+GeoServeril, siis avame siin repos eraldi [õssu](https://github.com/e-gov/kem-gsavalik/issues),
+milles saab seejärel läbi töötada täpsema andmekoosseisu (s.t atribuutandmed,
+mida saab/võib seadusest või muudest kohustustest tulenevalt avaldada), viitega
+OITi vastavale õssule. Viitamine OIT arutelule pakub tagasiside algsele
 andmevajadusele.
 
 Kui soovid ise teha täiendusi/muudatusi/parandusi, siis võid avada tõmbepalve
