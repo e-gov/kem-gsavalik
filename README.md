@@ -12,7 +12,7 @@ teenuste kaudu, v.a juhul kui konkreetse andmehulga omanik pole seadusest vms
 kohustustest tulenevalt otsustanud teisiti.
 
 Avaldatud kaardikihtide täpsem loetelu ning WMS/WFS/TMS teenuste
-näidispäringud ja väljundformaadid on loetletud (doc/layers.md)[doc/layers.md]
+näidispäringud ja väljundformaadid on loetletud [doc/layers.md](doc/layers.md)
 lehel.
 
 KeM avaliku kaardiserverina on kasutusel [GeoServer](http://geoserver.org) ja
