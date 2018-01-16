@@ -11,6 +11,10 @@ kaardikihtide definitsioonide ja SLD kujundusfailide kallal. Kaardikihid on
 teenuste kaudu, v.a juhul kui konkreetse andmehulga omanik pole seadusest vms
 kohustustest tulenevalt otsustanud teisiti.
 
+Avaldatud kaardikihtide täpsem loetelu ning WMS/WFS/TMS teenuste
+näidispäringud ja väljundformaadid on loetletud (doc/layers.md)[doc/layers.md]
+lehel.
+
 KeM avaliku kaardiserverina on kasutusel [GeoServer](http://geoserver.org) ja
 siin repos töötame `GEOSERVER_DATA_DIR` kallal. Repositooriumi struktuur on
 üles seatud selliselt, et oleks võimalik kõik kaustad [src](src) alt
