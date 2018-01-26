@@ -1,0 +1,243 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Keskkonnaministeeriumi avalik kaardiserver</title>
+
+		<link rel="stylesheet" href="./reveal.js-3.5.0/css/reveal.css">
+		<link rel="stylesheet" href="./reveal.js-3.5.0/css/theme/white.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="./reveal.js-3.5.0/lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? './reveal.js-3.5.0/css/print/pdf.css' : './reveal.js-3.5.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h2>Keskkonnaministeeriumi avalik kaardiserver</h2>
+                    <small>gsavalik.envir.ee</small>
+                    <br><br><br><br>
+					<div align="right">
+						<small>
+                            @tkardi<br>
+                            Tõnis Kärdi<br>
+                            KEMIT<br>
+                            <a href="mailto:tonis.kardi@kemit.ee">tonis.kardi@kemit.ee</a>
+                        </small>
+					</div>
+				</section>
+
+                <section>
+                    <section>
+                        Taust<br>
+                        <small>(ehk miks, kellele ja milleks?)</small>
+                    </section>
+                    <section>
+                        <a href="https://kratt.envir.ee/"
+                            target="_blank" rel="noopener noreferrer">
+                            KRATT
+                        </a><br>
+                        <small>(Keskkonnaagentuuri Ruumiandmete Teenus)</small>
+                    </section>
+                    <section>
+                        <a href="https://mets-ave.envir.ee/"
+                            target="_blank" rel="noopener noreferrer">
+                            MR AVE
+                        </a><br>
+                        <small>(Metsaregistri avalik portaal)</small>
+                    </section>
+                    <section>
+                        <a href="https://kotkas.envir.ee/"
+                            target="_blank" rel="noopener noreferrer">
+                                KOTKAS AVE
+                        </a><br>
+                        <small>(Keskkonnalubade registri avalik portaal)</small>
+                    </section>
+                    <section>
+                        <small>(ja kui tõele au anda, siis)</small><br>
+                        <a href="https://www.riigiteataja.ee/akt/122032011010?leiaKehtiv"
+                            target="_blank" rel="noopener noreferrer">
+                                Avaliku teabe seadus
+                        </a>
+                    </section>
+                    <section>
+                        Kõik andmed <a href="https://creativecommons.org/licenses/by/4.0/"
+                            target="_blank" rel="noopener noreferrer">
+                                CC BY 4.0</a> litsentsiga<br>
+                        <small>(<b>"kõik" != reegel</b>, kuid püüdleme selle poole)</small>
+                    </section>
+                    <section>
+                        <small>ehk siis</small><br>
+                        andmete kasutamisel on atributsioon oluline! :)
+                    </section>
+                    <section>
+                        Arendus <a href="https://https://github.com/e-gov/kem-gsavalik"
+                            target="_blank" rel="noopener noreferrer">
+                                GitHubis</a><br>
+                        <small>(teie panus on teretulnud :))</small>
+                    </section>
+                </section>
+
+                <section>
+                    <section>
+                        Nojah,<br>
+                        see kõik on ju ilus, <br>
+                        <b>aga räägiks nüüd asjast?</b>
+                    </section>
+                    <section>
+                        Andmed saadaval standardsete (kaardi-)teenustena<br>
+                    </section>
+                    <section>
+                        raster: WMS, TMS, WMS-C, WMTS<br>
+                        <small>jpeg, png</small>
+                        <img src="./img/nt-kaardikihid.png">
+                    </section>
+                    <section>
+                        Aga Tõnis, mulle üldse ei meeldi see kujundus, mis te kokku olete keeranud..<br>
+                        <small>(päriselt ka...)</small>
+                    </section>
+                    <section>
+                        vektor: WFS, TMS<br>
+                        <small><small style="vertical-align:middle">GML,</small> GeoJSON*, TopoJSON</small>
+                        <br><br><br><br><br>
+                        <div align="right">
+                          <small>
+                            * - pole viimase GeoJSONi speki-järgne: <br>srs != EPSG:4326
+                          </small>
+                        </div>
+                    </section>
+                    <section>
+                        <small>(...kuid siin läheb asi segaseks)</small><br>
+                        vektor: WMS<br>
+                        <img src="./img/wms-geojson.png" width="150%">
+                    </section>
+                    <section>
+                        <small>(kuigi...)</small><br>
+                        miks kasutada WMSi kui kahheldatud andmed on olemas?
+                    </section>
+                    <section>
+                        <small>saadaval TMS gridsetid</small><br>
+                        EPSG:3857, EPSG:3301
+                    </section>
+                </section>
+
+                <section>
+                    <section>
+                        Seadistus<br>
+                        <small>(detailid huvitatuile)</small>
+                    </section>
+                    <section>
+                        PostgreSQL/PostGIS, SpatiaLite, OGR,<br>
+                        GeoServer (+ GeoWebCache)<br>
+                        <small>(protsessi dirigeeritakse Pythonis)</small><br>
+                    </section>
+                    <section>
+                        <img src="./img/skeem.png">
+                    </section>
+                    <section>
+                        ...ja andmeuuendus?<br>
+                        <small>(1 kord ööpäevas)</small><br>
+                    </section>
+
+                </section>
+
+                <section>
+                    <section>
+                        Kuhu edasi
+                    </section>
+                    <section>
+                        Metsaka andmed -
+                            <a href="https://github.com/e-gov/kem-gsavalik/issues/24"
+                                target="_blank" rel="noopener noreferrer">#24</a><br>
+                        Corine -
+                            <a href="https://github.com/e-gov/kem-gsavalik/issues/17"
+                                target="_blank" rel="noopener noreferrer">#17</a><br>
+                        Prügilad -
+                            <a href="https://github.com/e-gov/kem-gsavalik/issues/18"
+                                target="_blank" rel="noopener noreferrer">#18</a><br>
+                        Vektorandmete muudatuste päringud -
+                            <a href="https://github.com/e-gov/kem-gsavalik/issues/26"
+                                target="_blank" rel="noopener noreferrer">#26</a>
+                    </section>
+                    <section>
+                        Kui on andmeid, mida tahaks<br>
+                        <small>(kuid pole kindel, kelle poole pöörduda)</small><br>
+                        <a href="https://github.com/okestonia/opendata-issue-tracker/issues"
+                            target="_blank" rel="noopener noreferrer">
+                                https://github.com/okestonia/opendata-issue-tracker/issues</a><br>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        eelis <br>
+                        WFS <a href="https://gsavalik.envir.ee/geoserver/eelis/ows?service=WFS&version=2.0.0&request=GetCapabilities"
+                            target="_blank" rel="noopener noreferrer">
+                                https://gsavalik.envir.ee/geoserver/eelis/ows?service=WFS&version=2.0.0&request=GetCapabilities</a>
+                        WMS <a href="https://gsavalik.envir.ee/geoserver/eelis/ows?service=WMS&version=1.3.0&request=GetCapabilities"
+                            target="_blank" rel="noopener noreferrer">
+                                https://gsavalik.envir.ee/geoserver/eelis/ows?service=WMS&version=1.3.0&request=GetCapabilities</a>
+                    </section>
+                    <section>
+                        keskkonnainfo <br>
+                        WFS <a href="https://gsavalik.envir.ee/geoserver/keskkonnainfo/ows?service=WFS&version=2.0.0&request=GetCapabilities"
+                            target="_blank" rel="noopener noreferrer">
+                                https://gsavalik.envir.ee/geoserver/keskkonnainfo/ows?service=WFS&version=2.0.0&request=GetCapabilities</a>
+                        WMS <a href="https://gsavalik.envir.ee/geoserver/keskkonnainfo/ows?service=WMS&version=1.3.0&request=GetCapabilities"
+                            target="_blank" rel="noopener noreferrer">
+                                https://gsavalik.envir.ee/geoserver/keskkonnainfo/ows?service=WMS&version=1.3.0&request=GetCapabilities</a>
+                    </section>
+                    <section>
+                        baasandmed <br>
+                        WMS <a href="https://gsavalik.envir.ee/geoserver/baasandmed/ows?service=WMS&version=1.3.0&request=GetCapabilities"
+                            target="_blank" rel="noopener noreferrer">
+                                https://gsavalik.envir.ee/geoserver/baasandmed/ows?service=WMS&version=1.3.0&request=GetCapabilities</a>
+                    </section>
+                    <section>
+                        kahheldatud kaardikihid <br>
+                        TMS <a href="https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0"
+                            target="_blank" rel="noopener noreferrer">
+                                https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0</a>
+                    </section>
+                </section>
+                <section>
+    				<section>
+                        <a href="https://github.com/e-gov/kem-gsavalik">https://github.com/e-gov/kem-gsavalik</a><br><br>
+                        <small>
+                            @tkardi<br>
+                            <a href="mailto:tonis.kardi@kemit.ee">tonis.kardi@kemit.ee</a>
+                        </small>
+                    </section>
+				</section>
+			</div>
+		</div>
+
+		<script src="./reveal.js-3.5.0/lib/js/head.min.js"></script>
+		<script src="./reveal.js-3.5.0/js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: './reveal.js-3.5.0/plugin/markdown/marked.js' },
+					{ src: './reveal.js-3.5.0/plugin/markdown/markdown.js' },
+					{ src: './reveal.js-3.5.0/plugin/notes/notes.js', async: true },
+					{ src: './reveal.js-3.5.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
