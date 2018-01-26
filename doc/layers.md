@@ -1,3 +1,31 @@
+# Kaardikihtide loetelu
+
+Järgnev on loetelu KeM avalikul kaardiserveril avaldatud andmehulkadest. Toodud
+on iga avaldatud:
+- kihi nimi,
+- WMS näidispäringud (kihi eelvaade OpenLayers rakendusena ning png formaadis
+pildifail).
+- WFS näidispäringud (väljundformaadid `application/json` ning `GML 3.2` profiil)
+- TMS näidispäringud kahele erinevale kahhelvõrgule:
+a) Maa-ameti hallatavale riiklikul koordinaatsüsteemil [L-EST'97](
+http://epsg.io/3301) põhineval `EPSG:3301` võrgul
+b) klassikaliselt veebikaartides kasutataval [Pseudo-Mercator](
+http://epsg.io/3857)il põhineval `ÈPSG:3857` võrgul.
+Väljundformaadid kummalegi kahhelvõrgule: `image/png`, `application/json`,
+`application/topojson`.
+
+Kuna kõik kihid ei pruugi kõikidel mõõtkavadel nähtavad, siis võib juhtuda, et
+kihile määratud eelvaate url tagastab tühja vastuse. Püüame siin lehel hoida
+näidispäringud sisukatena, aga juhul kui jääb silma mõni, mis siiski ei tööta,
+siis oleksime tänulikud kui [annaksite sellest teada](
+https://github.com/e-gov/kem-gsavalik/issues).
+
+Kui kasutate kaardikihte WMS teenustena, siis soovitame kasutada teenuste < 1.3.0
+versiooni, nt 1.1.1. Siis on väiksematel mõõtkavadel kaardipildi tagastus kiirem.
+Probleemi kohta saab täpsemalt lugeda [siit](https://osgeo-org.atlassian.net/browse/GEOS-8264)
+
+## Kaardikihid
+
 | Kiht | WMS | WFS | TMS |
 | ---- | --- | --- | --- |
 | eelis:kr_allikas | [application/openlayers](https://gsavalik.envir.ee/geoserver/eelis/ows?service=wms&version=1.10&request=getmap&layers=eelis:kr_allikas&styles=&bbox=368907.9255,6380519.4209,738781.0568,6621359.0164&width=1200&height=300&srs=epsg:3301&format=application/openlayers), [image/png](https://gsavalik.envir.ee/geoserver/eelis/ows?service=WMS&version=1.1.1&request=GetMap&format=image/png&transparent=true&styles&layers=eelis:kr_allikas&srs=EPSG:3301&width=1200&height=300&bbox=-179578.63608231593,6318236.093998218,1286369.4135692427,6684723.106411107) | [application/json](https://gsavalik.envir.ee/geoserver/eelis/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=eelis:kr_allikas&count=10&outputFormat=application%2Fjson), [text/xml](https://gsavalik.envir.ee/geoserver/eelis/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=eelis:kr_allikas&count=10&outputFormat=application/gml%2Bxml;%20version=3.2) | [3301@image/png](https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0/eelis:kr_allikas@EPSG:3301@png/0/0/0.png), [3857@image/png](https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0/eelis:kr_allikas@EPSG:3857@png/5/18/22.png), [3301@geojson](https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0/eelis:kr_allikas@EPSG:3301@geojson/0/0/0.geojson), [3857@geojson](https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0/eelis:kr_allikas@EPSG:3857@geojson/5/18/22.geojson), [3301@topojson](https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0/eelis:kr_allikas@EPSG:3301@topojson/0/0/0.topojson), [3857@topojson](https://gsavalik.envir.ee/geoserver/gwc/service/tms/1.0.0/eelis:kr_allikas@EPSG:3857@topojson/5/18/22.topojson) |
