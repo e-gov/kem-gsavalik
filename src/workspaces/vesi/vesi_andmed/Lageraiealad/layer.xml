@@ -1,0 +1,20 @@
+<layer>
+  <name>Lageraiealad</name>
+  <id>LayerInfoImpl--77c62e5d:15f107ba744:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--77c62e5d:15f107ba744:-7ff4</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--77c62e5d:15f107ba744:-7ff4</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--77c62e5d:15f107ba744:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
