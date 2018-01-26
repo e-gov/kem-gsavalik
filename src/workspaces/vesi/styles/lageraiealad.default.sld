@@ -6,10 +6,24 @@
       <se:Name>Lageraiealad</se:Name>
       <se:FeatureTypeStyle>
         <se:Rule>
+          <se:MaxScaleDenominator>250000</se:MaxScaleDenominator>
+          <se:LineSymbolizer>
+            <se:Stroke>
+              <se:SvgParameter name="stroke">#ECF3EC</se:SvgParameter>
+              <se:SvgParameter name="stroke-width">2</se:SvgParameter>
+              <se:SvgParameter name="stroke-linejoin">bevel</se:SvgParameter>
+            </se:Stroke>
+          </se:LineSymbolizer>
+        </se:Rule>
+      </se:FeatureTypeStyle>
+      <se:FeatureTypeStyle>
+        <se:Rule>
           <se:Name>Single symbol</se:Name>
+          <se:MaxScaleDenominator>250000</se:MaxScaleDenominator>
           <se:PolygonSymbolizer>
             <se:Fill>
               <se:SvgParameter name="fill">#4daf4a</se:SvgParameter>
+              <se:SvgParameter name="fill-opacity">0.5</se:SvgParameter>
             </se:Fill>
             <se:Stroke>
               <se:SvgParameter name="stroke">#388036</se:SvgParameter>
