@@ -6,7 +6,7 @@
   <enabled>true</enabled>
   <name>WFS</name>
   <title>RMK</title>
-  <maintainer>http://rmk.ee</maintainer>
+  <maintainer>http://kemit.ee</maintainer>
   <abstrct>EST: RMK (Riigimetsa Majandamise Keskuse) avalik OGC WFS kaardiandmete teenus. Avatud kasutamiseks OGC WFS versioonid 1.0.0, 1.1.0 ja 2.0.0. Teenuse või selles jagatavate andmete taaskasutamisel palume viidata andmete omanikule (vt viidet konkreetse kaardikihi juures). Juhul kui kihi kohta pole eraldi tingimusi määratud, on siinolevad andmed avaldatud CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ litsentsi alusel viitega Riigimetsa Majandamise Keskusele kui andmete allikale. Teenuses esitatud kaardikihtide andmed on informatiivsed ning me ei saa garanteerida selle teenuse või temas sisalduvate andmete kättesaadavust tulevikus. Anname endast parima, et selles teenuses sisalduvad andmehulgad oleks siiski võimalikult ajakohased. | ENG: RMK (State Forest Management Centre) open access OGC web feature service (WFS) available for versions 1.0.0, 1.1.0 and 2.0.0 of OGC WFS standard. All works relying on data from this service must include appropriate attribution. If not specified otherwise for a specific layer all data is published under the CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ license and attributed to the State Forest Management Centre. All content made available through this service endpoint is informative in nature and we cannot guarantee the continued availability of this service or access to any of the datasets herein. We will do our best to keep the content of this service as up-to-date as is possible.</abstrct>
   <accessConstraints>NONE</accessConstraints>
   <fees>NONE</fees>
