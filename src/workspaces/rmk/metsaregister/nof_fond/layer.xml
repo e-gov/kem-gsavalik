@@ -1,0 +1,15 @@
+<layer>
+  <name>nof_fond</name>
+  <id>LayerInfoImpl--2d71cb2f:1602c4a5940:-7d1d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2d71cb2f:1602c4a5940:-7d26</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2d71cb2f:1602c4a5940:-7d1e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

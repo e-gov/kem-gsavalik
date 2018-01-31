@@ -1,0 +1,61 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--2d71cb2f:1602c4a5940:-7d21</id>
+  <name>mur_fond</name>
+  <nativeName>mr__rmk_mur</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-305608db:15f05972546:-7fe9</id>
+  </namespace>
+  <title>mr__rmk_mur</title>
+  <abstract>[lisa tekst]</abstract>
+  <nativeCRS class="projected">PROJCS[&quot;Estonian Coordinate System of 1997&quot;, 
+  GEOGCS[&quot;EST97&quot;, 
+    DATUM[&quot;Estonia 1997&quot;, 
+      SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+      TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6180&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4180&quot;]], 
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, 24.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 57.51755393055556], 
+  PARAMETER[&quot;standard_parallel_1&quot;, 59.333333333333336], 
+  PARAMETER[&quot;false_easting&quot;, 500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 6375000.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;standard_parallel_2&quot;, 58.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;3301&quot;]]</nativeCRS>
+  <srs>EPSG:3301</srs>
+  <nativeBoundingBox>
+    <minx>384853.815</minx>
+    <maxx>735024.125</maxx>
+    <miny>6378071.953</miny>
+    <maxy>6614814.342</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>21.957538367251466</minx>
+    <maxx>28.164783827640843</maxx>
+    <miny>57.48346229428743</miny>
+    <maxy>59.670532168576976</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-305608db:15f05972546:-7fde</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

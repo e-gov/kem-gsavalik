@@ -1,0 +1,15 @@
+<layer>
+  <name>mur_fond</name>
+  <id>LayerInfoImpl--2d71cb2f:1602c4a5940:-7d20</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2d71cb2f:1602c4a5940:-7d25</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2d71cb2f:1602c4a5940:-7d21</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
