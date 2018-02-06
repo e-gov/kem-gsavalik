@@ -1,0 +1,17 @@
+<layer>
+  <name>veekogumid_valgla</name>
+  <id>LayerInfoImpl-72f82b97:1595fe9869a:5d7c</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72f82b97:1595fe9869a:5b44</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72f82b97:1595fe9869a:5d7b</id>
+  </resource>
+  <attribution>
+    <title>Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

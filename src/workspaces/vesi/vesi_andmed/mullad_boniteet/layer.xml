@@ -1,0 +1,17 @@
+<layer>
+  <name>mullad_boniteet</name>
+  <id>LayerInfoImpl-72f82b97:1595fe9869a:5b41</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72f82b97:1595fe9869a:5b3e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72f82b97:1595fe9869a:5b40</id>
+  </resource>
+  <attribution>
+    <title>Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>pohjavesi_kaitstus</name>
+  <id>LayerInfoImpl-72f82b97:1595fe9869a:5d60</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72f82b97:1595fe9869a:5d5c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-72f82b97:1595fe9869a:5d5f</id>
+  </resource>
+  <attribution>
+    <title>Keskkonnaagentuur</title>
+    <href>http://keskkonnaagentuur.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
