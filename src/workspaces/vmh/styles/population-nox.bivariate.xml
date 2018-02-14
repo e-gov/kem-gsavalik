@@ -1,0 +1,18 @@
+<style>
+  <id>StyleInfoImpl--895dc39:1617b0f8283:-7f59</id>
+  <name>population-nox.bivariate</name>
+  <workspace>
+    <id>WorkspaceInfoImpl--2d71cb2f:1602c4a5940:-7d10</id>
+  </workspace>
+  <format>sld</format>
+  <languageVersion>
+    <version>1.0.0</version>
+  </languageVersion>
+  <filename>population-nox.bivariate.sld</filename>
+  <legend>
+    <width>256</width>
+    <height>256</height>
+    <format>image/png; charset=UTF-8</format>
+    <onlineResource>legends/rahvaarv_nox.png</onlineResource>
+  </legend>
+</style>

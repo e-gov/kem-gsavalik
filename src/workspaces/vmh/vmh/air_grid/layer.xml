@@ -1,0 +1,23 @@
+<layer>
+  <name>air_grid</name>
+  <id>LayerInfoImpl--2d71cb2f:1602c4a5940:-7d03</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2d71cb2f:1602c4a5940:-7d02</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--895dc39:1617b0f8283:-7f59</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--895dc39:1617b0f8283:-7d63</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2d71cb2f:1602c4a5940:-7d04</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

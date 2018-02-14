@@ -1,0 +1,13 @@
+<dataStore>
+  <id>DataStoreInfoImpl--2d71cb2f:1602c4a5940:-7d06</id>
+  <name>vmh</name>
+  <type>SpatiaLite</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--2d71cb2f:1602c4a5940:-7d10</id>
+  </workspace>
+  <connectionParameters>
+    <!-- entry key="" parameetrid sellele datastore'ile-->
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
