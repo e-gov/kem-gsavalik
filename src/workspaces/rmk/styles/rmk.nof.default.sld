@@ -15,11 +15,11 @@
 		  <Name>NOF</Name>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#E2711D</CssParameter>
+              <CssParameter name="fill">#99cc33</CssParameter>
               <CssParameter name="fill-opacity">0.7</CssParameter>
             </Fill>
             <Stroke>
-              <CssParameter name="stroke">#E2711D</CssParameter>
+              <CssParameter name="stroke">#99cc33</CssParameter>
               <CssParameter name="stroke-width">1</CssParameter>
               <CssParameter name="stroke-linejoin">round</CssParameter>
               <CssParameter name="stroke-linecap">round</CssParameter>

@@ -15,11 +15,11 @@
 		  <Name>URF</Name>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#7392B7</CssParameter>
+              <CssParameter name="fill">#006633</CssParameter>
               <CssParameter name="fill-opacity">0.7</CssParameter>
             </Fill>
             <Stroke>
-              <CssParameter name="stroke">#7392B7</CssParameter>
+              <CssParameter name="stroke">#006633</CssParameter>
               <CssParameter name="stroke-width">1</CssParameter>
               <CssParameter name="stroke-linejoin">round</CssParameter>
               <CssParameter name="stroke-linecap">round</CssParameter>

@@ -15,11 +15,11 @@
 		  <Name>hrf</Name>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#ffee44</CssParameter>
+              <CssParameter name="fill">#339933</CssParameter>
               <CssParameter name="fill-opacity">0.7</CssParameter>
             </Fill>
             <Stroke>
-              <CssParameter name="stroke">#ffee44</CssParameter>
+              <CssParameter name="stroke">#339933</CssParameter>
               <CssParameter name="stroke-width">1</CssParameter>
               <CssParameter name="stroke-linejoin">round</CssParameter>
               <CssParameter name="stroke-linecap">round</CssParameter>
