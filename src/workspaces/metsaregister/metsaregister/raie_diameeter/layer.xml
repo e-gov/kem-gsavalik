@@ -1,0 +1,17 @@
+<layer>
+  <name>raie_diameeter</name>
+  <id>LayerInfoImpl-18edb97d:161b3a5a403:-7fe4</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-18edb97d:161b3a5a403:-7fe2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-18edb97d:161b3a5a403:-7fe5</id>
+  </resource>
+  <attribution>
+    <title>CC BY 4.0: Metsaregister</title>
+    <href>https://register.metsad.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

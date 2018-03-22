@@ -1,0 +1,50 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-18edb97d:161b3a5a403:-7f90</id>
+  <name>raiekyps</name>
+  <mode>NAMED</mode>
+  <title>Raieküpsed metsad</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-9c309ff:15e5abb0a13:-7ee5</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-18edb97d:161b3a5a403:-7fe4</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-18edb97d:161b3a5a403:-7fdc</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-18edb97d:161b3a5a403:-7fd9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-18edb97d:161b3a5a403:-7fd6</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-18edb97d:161b3a5a403:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-18edb97d:161b3a5a403:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-18edb97d:161b3a5a403:-7fe2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-18edb97d:161b3a5a403:-7fe2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>372831.528543</minx>
+    <maxx>736454.070577</maxx>
+    <miny>6377173.095565</miny>
+    <maxy>6615705.730837</maxy>
+    <crs class="projected">EPSG:3301</crs>
+  </bounds>
+  <attribution>
+    <title>CC BY 4.0: Metsaregister</title>
+    <href>https://register.metsad.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layerGroup>
