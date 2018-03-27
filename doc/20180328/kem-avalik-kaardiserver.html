@@ -1,0 +1,204 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Keskkonnaandmed avalike veebiteenustena</title>
+
+		<link rel="stylesheet" href="../static/reveal.js-3.5.0/css/reveal.css">
+		<link rel="stylesheet" href="../static/reveal.js-3.5.0/css/theme/white.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="../static/reveal.js-3.5.0/lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '../static/reveal.js-3.5.0/css/print/pdf.css' : '../static/reveal.js-3.5.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h2>Keskkonnaandmed avalike veebiteenustena</h2>
+                    <br><br><br><br>
+					<div align="right">
+						<small>
+                            @tkardi<br>
+                            Tõnis Kärdi<br>
+                            KEMIT<br>
+                            <a href="mailto:tonis.kardi@kemit.ee">tonis.kardi@kemit.ee</a>
+                        </small>
+					</div>
+				</section>
+
+                <section>
+                    <section>
+                        standardiseeritud andmeteenused veebis<br>
+                        <small>(WMS, WFS, WCS, TMS)</small>
+                    </section>
+                    <section>
+                        <b>standardiseeritud</b> päringute süntaks<br>
+                        <small>st juba olemasolev tarkvara (<i>klient</i>) oskab suhelda (<i>liidestuda</i>)</small>
+                    </section>
+                    <section>
+                        desktop GIS tarkvara<br>
+                        <small>(nt QGIS)</small>
+                    </section>
+                    <section>
+                        teegid erinevates programmeerimiskeeltes<br>
+                        <small>(nt Python, R, JavaScripti raamistikud, ...)</small>
+                    </section>
+                    <section>
+                        ... või siis kirjuta ise :)
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        WMS - <small style="vertical-align:middle">web map service</small>
+                    </section>
+                    <section>
+                        raster: WMS<br>
+                        <small>jpeg, png</small><br>
+                        <img src="../static/img/nt-kaardikihid.png" height="400">
+                    </section>
+                    <section>
+                        WFS - <small style="vertical-align:middle">web feature service</small>
+                    </section>
+                    <section>
+                        vektor: WFS<br>
+                        <small>geojson, topojson, gml</small><br>
+                        <img src="../static/img/nt-geojson.png">
+                    </section>
+                    <section>
+                        WCS - <small style="vertical-align:middle">web coverage service</small>
+                    </section>
+                    <section>
+                        raster ("vektor"): WCS<br>
+                        <small>text, gml, tiff, netcdf</small><br>
+                        <img src="../static/img/nt-asciitxt.png">
+                    </section>
+                    <section>
+                        TMS - <small style="vertical-align:middle">tiled map service</small>
+                    </section>
+                    <section>
+                        raster ja vektor: TMS<br>
+                        <small>png, geojson, topojson</small><br>
+                        <img src="../static/img/tile-scheming.png" height="400">
+                    </section>
+                    <section>
+                        raster ja vektor: TMS<br>
+                        <small>png, geojson, topojson</small><br>
+                        <img src="../static/img/nt-tile-z0.png">
+                        <img src="../static/img/nt-tile-z1.png">
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        Keskkonnaministeeriumi avalik kaardiserver<br>
+                        <small>gsavalik.envir.ee</small>
+                    </section>
+                    <section>
+                        Taust<br>
+                        <small>(ehk miks, kellele ja milleks?)</small>
+                    </section>
+                    <section>
+                        <a href="https://kratt.envir.ee/"
+                            target="_blank" rel="noopener noreferrer">
+                            KRATT
+                        </a><br>
+                        <small>(Keskkonnaagentuuri Ruumiandmete Teenus)</small>
+                    </section>
+                    <section>
+                        <a href="https://register.metsad.ee/"
+                            target="_blank" rel="noopener noreferrer">
+                            MR AVE
+                        </a><br>
+                        <small>(Metsaregistri avalik portaal)</small>
+                    </section>
+                    <section>
+                        <a href="https://kotkas.envir.ee/"
+                            target="_blank" rel="noopener noreferrer">
+                                KOTKAS AVE
+                        </a><br>
+                        <small>(Keskkonnaotsuste infosüsteemi avalik portaal)</small>
+                    </section>
+                    <section>
+                        <small>(ja kui tõele au anda, siis)</small><br>
+                        <a href="https://www.riigiteataja.ee/akt/122032011010?leiaKehtiv"
+                            target="_blank" rel="noopener noreferrer">
+                                Avaliku teabe seadus
+                        </a>
+                    </section>
+                    <section>
+                        Kõik andmed <a href="https://creativecommons.org/licenses/by/4.0/"
+                            target="_blank" rel="noopener noreferrer">
+                                CC BY 4.0</a> litsentsiga<br>
+                        <small>(<b>"kõik" != reegel</b>, kuid püüdleme selle poole)</small>
+                    </section>
+                    <section>
+                        <small>ehk siis</small><br>
+                        andmete kasutamisel on atributsioon oluline! :)
+                    </section>
+                    <section>
+                        Arendus GitHubis<br>
+                        <a href="https://github.com/e-gov/kem-gsavalik"
+                            target="_blank" rel="noopener noreferrer">
+                                https://github.com/e-gov/kem-gsavalik</a>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        Kui on andmehulki, mida tahaks<br>
+                        <small>(kuid pole kindel, kelle poole pöörduda)</small><br>
+                        <a href="https://github.com/okestonia/opendata-issue-tracker/issues"
+                            target="_blank" rel="noopener noreferrer">
+                                https://github.com/okestonia/opendata-issue-tracker/issues</a><br>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        Avaldatud kaardikihtide loend<br>
+                        <small>(ja näidispäringud)</small><br>
+                        <a href="https://github.com/e-gov/kem-gsavalik/blob/master/doc/layers.md"
+                            target="_blank" rel="noopener noreferrer">
+                                https://github.com/e-gov/kem-gsavalik/blob/master/doc/layers.md</a><br>
+
+                    </section>
+                </section>
+                <section>
+    				<section>
+                        <a href="https://github.com/e-gov/kem-gsavalik">https://github.com/e-gov/kem-gsavalik</a><br><br>
+                        <small>
+                            @tkardi<br>
+                            <a href="mailto:tonis.kardi@kemit.ee">tonis.kardi@kemit.ee</a>
+                        </small>
+                    </section>
+				</section>
+			</div>
+		</div>
+
+		<script src="../static/reveal.js-3.5.0/lib/js/head.min.js"></script>
+		<script src="../static/reveal.js-3.5.0/js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: '../static/reveal.js-3.5.0/plugin/markdown/marked.js' },
+					{ src: '../static/reveal.js-3.5.0/plugin/markdown/markdown.js' },
+					{ src: '../static/reveal.js-3.5.0/plugin/notes/notes.js', async: true },
+					{ src: '../static/reveal.js-3.5.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
