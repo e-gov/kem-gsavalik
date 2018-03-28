@@ -43,6 +43,10 @@ KeM avaliku kaardiserveriga seonduvaid töid tutvustav ettekanne [Eesti
 Geoinformaatika Seltsi](https://www.estgis.ee) [2017. a aastakonverentsil](https://www.estgis.ee/uritused/aastakonverents/2017-2/kava/)
 on nähtav-tagasimängitav [siin](https://e-gov.github.io/kem-gsavalik/doc/20170929/kem-avalik-kaardiserver.html)
 
+Eesti keskkonnakasutuse välismõjude rahasse hindamise analüüsi I etapi
+tööde esitluse seminaril 2018.03.08 tehtud ettekanne on nähtav [siin](
+https://e-gov.github.io/kem-gsavalik/doc/20180328/keskkonnaandmed-avalike-veebiteenustena.html).
+
 ## Löö kaasa
 Soovi korral võid ka ise kaasa lüüa KeM avaliku kaardiserveri teenuste
 arendamises. Ava [õssu](https://github.com/e-gov/kem-gsavalik/issues) (_issue_)
