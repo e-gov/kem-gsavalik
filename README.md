@@ -39,6 +39,7 @@ Hea ülevaate SLD kujundustest koos näidetega annab
 Samuti pakub hea taustainfo
 [GeoServeri dokumentatsioon](http://docs.geoserver.org/latest/en/user/styling/sld/index.html).
 
+## Ettekanded
 KeM avaliku kaardiserveriga seonduvaid töid tutvustav ettekanne [Eesti
 Geoinformaatika Seltsi](https://www.estgis.ee) [2017. a aastakonverentsil](https://www.estgis.ee/uritused/aastakonverents/2017-2/kava/)
 on nähtav-tagasimängitav [siin](https://e-gov.github.io/kem-gsavalik/doc/20170929/kem-avalik-kaardiserver.html)
