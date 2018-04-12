@@ -1,0 +1,17 @@
+<layer>
+  <name>mullakaart</name>
+  <id>LayerInfoImpl-290c844e:162b85cb3dc:-7fff</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-72f82b97:1595fe9869a:4c4b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-290c844e:162b85cb3dc:-8000</id>
+  </resource>
+  <attribution>
+    <title>?</title>
+    <href>http://maaamet.ee</href>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
